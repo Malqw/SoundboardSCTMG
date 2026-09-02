@@ -1,0 +1,38 @@
+{
+  "factions": [
+    { "key": "terran", "name": "Терраны", "color": "#5aa9e6" },
+    { "key": "protoss", "name": "Протоссы", "color": "#f0c14b" },
+    { "key": "zerg", "name": "Зерги", "color": "#b06be0" }
+  ],
+  "categoryLabels": {
+    "arrive": "Появление",
+    "hurt": "Ранен",
+    "select": "Выбор",
+    "move": "Приказ",
+    "attack": "Атака (голос)",
+    "sfx": "Бой (выстрел/удар)",
+    "confirm": "Действие",
+    "witty": "Шутки",
+    "other": "Смерть и разное"
+  },
+  "categoryOrder": ["arrive", "select", "move", "attack", "sfx", "confirm", "hurt", "witty", "other"],
+  "units": [
+    { "key": "t-marine", "faction": "terran", "name": "Морпех", "subtitle": "Marine" },
+    { "key": "t-marauder", "faction": "terran", "name": "Мародёр", "subtitle": "Marauder" },
+    { "key": "t-medic", "faction": "terran", "name": "Медик", "subtitle": "Medic" },
+    { "key": "t-goliath", "faction": "terran", "name": "Голиаф", "subtitle": "Goliath" },
+    { "key": "t-raynor", "faction": "terran", "name": "Джим Рейнор", "subtitle": "Jim Raynor", "hero": true },
+    { "key": "p-zealot", "faction": "protoss", "name": "Зилот", "subtitle": "Zealot" },
+    { "key": "p-adept", "faction": "protoss", "name": "Адепт", "subtitle": "Adept" },
+    { "key": "p-sentry", "faction": "protoss", "name": "Страж", "subtitle": "Sentry" },
+    { "key": "p-stalker", "faction": "protoss", "name": "Сталкер", "subtitle": "Stalker" },
+    { "key": "p-artanis-lotv", "faction": "protoss", "name": "Артанис", "subtitle": "Artanis · Legacy of the Void", "hero": true },
+    { "key": "p-artanis-wol", "faction": "protoss", "name": "Артанис (классика)", "subtitle": "Artanis · Wings of Liberty", "hero": true },
+    { "key": "z-hydralisk", "faction": "zerg", "name": "Гидралиск", "subtitle": "Hydralisk" },
+    { "key": "z-zergling", "faction": "zerg", "name": "Зерглинг", "subtitle": "Zergling" },
+    { "key": "z-roach", "faction": "zerg", "name": "Роуч", "subtitle": "Roach" },
+    { "key": "z-roachling", "faction": "zerg", "name": "Роучлинг", "subtitle": "Roachling", "pending": true },
+    { "key": "z-queen", "faction": "zerg", "name": "Королева", "subtitle": "Queen" },
+    { "key": "z-kerrigan", "faction": "zerg", "name": "Керриган", "subtitle": "Kerrigan", "hero": true }
+  ]
+}
