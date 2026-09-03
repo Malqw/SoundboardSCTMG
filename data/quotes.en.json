@@ -5,325 +5,325 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Ready00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Ready00.mp3",
      "text": "You want a piece of me, boy?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What00.mp3",
      "text": "This better be good..."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What03.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What03.mp3",
      "text": "Who wants some?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What04.mp3",
      "text": "Armed and ready!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes04.mp3",
      "text": "Go, go, go!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes12.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes12.mp3",
      "text": "Gangway! Coming through!"
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Help00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Help00.mp3",
      "text": "We could use some help here!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What00.mp3",
      "text": "This better be good..."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What01.mp3",
      "text": "Been waitin' on you."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What02.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What02.mp3",
      "text": "You gonna give me orders?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What03.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What03.mp3",
      "text": "Who wants some?!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What04.mp3",
      "text": "Armed and ready!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_What05.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_What05.mp3",
      "text": "By the numbers, boys."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes00.mp3",
      "text": "I feel ya."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes01.mp3",
      "text": "I'm on it!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes02.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes02.mp3",
      "text": "Outstanding!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes03.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes03.mp3",
      "text": "Keep your shirt on, Sparky."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes04.mp3",
      "text": "Go go go!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes05.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes05.mp3",
      "text": "Boo ya!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes06.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes06.mp3",
      "text": "That's fine."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes07.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes07.mp3",
      "text": "Got it."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes08.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes08.mp3",
      "text": "Sure!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes09.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes09.mp3",
      "text": "Sure thing!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes10.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes10.mp3",
      "text": "Why not?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes11.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes11.mp3",
      "text": "Of course!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes12.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes12.mp3",
      "text": "Gangway, comin' through!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes13.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes13.mp3",
      "text": "Aye aye, sir!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes14.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes14.mp3",
      "text": "Can't wait."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes15.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes15.mp3",
      "text": "Lookin' forward to it."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes16.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes16.mp3",
      "text": "Orders received."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes17.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes17.mp3",
      "text": "Will do."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes18.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes18.mp3",
      "text": "You got it!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes19.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes19.mp3",
      "text": "Yes sir!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes20.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes20.mp3",
      "text": "Ten-four."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes21.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes21.mp3",
      "text": "Roger that!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Yes22.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Yes22.mp3",
      "text": "Affirmative."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack00.mp3",
      "text": "Get some!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack01.mp3",
      "text": "Bring it!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack02.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack02.mp3",
      "text": "How's that for whoop-ass?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack03.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack03.mp3",
      "text": "Let's rock!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack04.mp3",
      "text": "Raaa!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack05.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack05.mp3",
      "text": "Hit it!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack06.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack06.mp3",
      "text": "Gonna get me some!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack07.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack07.mp3",
      "text": "Let's do this!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Attack08.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Attack08.mp3",
      "text": "Die die die!"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed00.mp3",
      "text": "Man... STILL stuck in this chickensh*t outfit..."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed01.mp3",
      "text": "Kiss my ass!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed02.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed02.mp3",
      "text": "Whatever I do, they keep bringin' me back in!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed03.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed03.mp3",
      "text": "This is my C-14 Impaler gauss rifle! There are many like it, but this one is mine!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed04.mp3",
      "text": "I came here to kick ass and chew bubble gum..."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed05.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed05.mp3",
      "text": "And I'm all outta... ugh, forget it."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed06.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed06.mp3",
      "text": "The only thing you should feel when you shoot someone...is the recoil."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed07.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed07.mp3",
      "text": "You ever notice that nobody ever comes back to the barracks?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed09.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed09.mp3",
      "text": "This one time, at boot camp..."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed11.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed11.mp3",
      "text": "Excuse me, I-I gotta burp... (gunfire)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Pissed12.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Pissed12.mp3",
      "text": "Thank you, sir! May I have another!"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death00.mp3",
      "text": "Mother-"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death01.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death02.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death02.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death03.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death03.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death04.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death04.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death05.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death05.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death06.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death06.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_Death07.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_Death07.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_PissedCut00.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_PissedCut00.mp3",
      "text": "How do you take a leak in this damn suit?"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_PissedCut01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_PissedCut01.mp3",
      "text": "Man, am I just being paranoid or is that medic following me?!"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_PissedCut02.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_PissedCut02.mp3",
      "text": "AAACHOO!! (Splat) Can't see a damn thing... (motor starts, windshield wiper sounds) Ah, much better."
     },
     {
-     "file": "assets/audio/en/terran/t-marine/Marine_CutStimpack01.ogg",
+     "file": "assets/audio/en/terran/t-marine/Marine_CutStimpack01.mp3",
      "text": "Awww yeah."
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch0.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch0.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch1.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch1.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch2.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch2.mp3",
      "text": "Выстрел 3"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch3.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch3.mp3",
      "text": "Выстрел 4"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch4.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch4.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch5.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch5.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch6.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch6.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch7.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch7.mp3",
      "text": "Выстрел 8"
     },
     {
-     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch8.ogg",
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch8.mp3",
      "text": "Выстрел 9"
     }
    ]
@@ -335,231 +335,231 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack02.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack02.mp3",
      "text": "Let's have a blast!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Ready00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Ready00.mp3",
      "text": "KABOOM, baby!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes00.mp3",
      "text": "Ohhh, it's on."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes04.mp3",
      "text": "It's go time!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes05.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes05.mp3",
      "text": "It's about to get heavy."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Help00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Help00.mp3",
      "text": "I'm in a world of hurt!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_What00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_What00.mp3",
      "text": "Just say when..."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_What01.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_What01.mp3",
      "text": "Go on..."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_What02.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_What02.mp3",
      "text": "Say the word, baby..."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_What03.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_What03.mp3",
      "text": "Time's a wastin'..."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_What04.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_What04.mp3",
      "text": "Don't leave me hangin'!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_What05.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_What05.mp3",
      "text": "Gotta WHOLE lotta love!"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes00.mp3",
      "text": "Ohhh, it's on."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes01.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes01.mp3",
      "text": "Believe it."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes02.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes02.mp3",
      "text": "I'm all about that."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes03.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes03.mp3",
      "text": "Let's do this."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes04.mp3",
      "text": "It's go time."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes05.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes05.mp3",
      "text": "It's about to get heavy."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes06.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes06.mp3",
      "text": "First round's on me."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes07.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes07.mp3",
      "text": "Got it."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes08.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes08.mp3",
      "text": "Sure."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes09.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes09.mp3",
      "text": "Sure thing."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes10.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes10.mp3",
      "text": "Why not?"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes11.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Yes11.mp3",
      "text": "Of course."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack00.mp3",
      "text": "Blow them all to hell!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack01.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack01.mp3",
      "text": "Sucks to be you!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack02.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack02.mp3",
      "text": "Let's have a blast!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack03.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack03.mp3",
      "text": "Say goodnight!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack04.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack04.mp3",
      "text": "Blastin' time!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack05.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Attack05.mp3",
      "text": "Frag 'em!"
     }
    ],
    "confirm": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_EnterBunker00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_EnterBunker00.mp3",
      "text": "Diggin' in!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_ExitBunker00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_ExitBunker00.mp3",
      "text": "Back in action!"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed00.mp3",
      "text": "What the hell are smithereens, anyway?"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed01.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed01.mp3",
      "text": "Yeah, I got all five fingers! Three on this hand, two on the other one!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed02.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed02.mp3",
      "text": "Baby...you really light my fuse (weapon fires) Whoops! (distant explosion heard) DAMN! Premature Detonation!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed03.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed03.mp3",
      "text": "Baby, if I could rearrange the alphabet, I'd put U and I together..."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed04.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed04.mp3",
      "text": "What's your sign, baby? Mine's explosive!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed05.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed05.mp3",
      "text": "I'm sooo sexy. I sometimes romance myself."
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed06.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Pissed06.mp3",
      "text": "Actually, that IS a grenade in my pants."
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Evac00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Evac00.mp3",
      "text": "Where's the love?"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death00.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death00.mp3",
      "text": "Damn, I was good!"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death01.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death01.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death02.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death02.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death03.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death03.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death04.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death04.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death05.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death05.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/Marauder_Death06.ogg",
+     "file": "assets/audio/en/terran/t-marauder/Marauder_Death06.mp3",
      "text": "(Screams)"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch0.ogg",
+     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch0.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch1.ogg",
+     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch1.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch2.ogg",
+     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch2.mp3",
      "text": "Выстрел 3"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch3.ogg",
+     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch3.mp3",
      "text": "Выстрел 4"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch4.ogg",
+     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch4.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch5.ogg",
+     "file": "assets/audio/en/terran/t-marauder/marauder_attacklaunch5.mp3",
      "text": "Выстрел 6"
     }
    ]
@@ -571,203 +571,203 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Ready00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Ready00.mp3",
      "text": "The doctor is in."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Help00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Help00.mp3",
      "text": "Better send some body bags!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_What00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_What00.mp3",
      "text": "Where does it hurt?"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_What01.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_What01.mp3",
      "text": "Is it critical?"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_What02.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_What02.mp3",
      "text": "You rang?"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_What03.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_What03.mp3",
      "text": "Please state the nature of your medical emergency."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_What04.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_What04.mp3",
      "text": "Standing by."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_What05.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_What05.mp3",
      "text": "Need some triage?"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Yes00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Yes00.mp3",
      "text": "Just relax."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Yes01.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Yes01.mp3",
      "text": "I'll take care of it."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Yes02.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Yes02.mp3",
      "text": "Not a problem."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Yes03.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Yes03.mp3",
      "text": "Ooh! Sounds serious!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Yes04.mp3",
      "text": "Hm. That's a serious outbreak."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Yes05.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Yes05.mp3",
      "text": "Must be an emergency."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack00.mp3",
      "text": "I'll fix you!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack01.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack01.mp3",
      "text": "I'll do my best."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack02.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack02.mp3",
      "text": "This is gonna hurt."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack03.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack03.mp3",
      "text": "Time to operate!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack04.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack04.mp3",
      "text": "Call the blood-bank."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack05.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack05.mp3",
      "text": "Sterilizing now!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Attack06.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Attack06.mp3",
      "text": "Patient's prognosis is dead!"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed00.mp3",
      "text": "Call me when the swelling goes down, on second thought, just call me."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed01.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed01.mp3",
      "text": "Here's some lotion, a comb, and a blowtorch. Good luck!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed02.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed02.mp3",
      "text": "Ooh. Looks like that hurts. Next!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed03.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed03.mp3",
      "text": "For the last time, this is NOT a strip-o-gram!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed04.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed04.mp3",
      "text": "Can I see your insurance card? Oh, I'm sorry, this was a pre-existing condition."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed05.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed05.mp3",
      "text": "That's the worst infestation I've ever seen! Next time, stay away from the cantina."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed06.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed06.mp3",
      "text": "There's a protoss here who needs mouth-to-mou - ooh... well... mouth to... something."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed07.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed07.mp3",
      "text": "If I do it wrong, it'll hurt a little. If I do it right, it'll hurt a lot."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed08.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed08.mp3",
      "text": "Ooh, heh, let's just skip the medical history and go right to the next of kin."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed09.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed09.mp3",
      "text": "Operation complete! Now where did I leave my watch?"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed10.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed10.mp3",
      "text": "Dammit, I'm a medic not a doctor! (pause) ...oh."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed11.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed11.mp3",
      "text": "Ugh, I've got leftovers. I don't even know where these go!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Pissed12.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Pissed12.mp3",
      "text": "Congratulations! You're my first patient... ever!"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Heal00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Heal00.mp3",
      "text": "I'll get you fixed right up!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Heal01.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Heal01.mp3",
      "text": "Turn your head and cough!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_EntBunk00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_EntBunk00.mp3",
      "text": "Ah, help!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_ExitBunk00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_ExitBunk00.mp3",
      "text": "Ah!, fresh air."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Evac00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Evac00.mp3",
      "text": "Ewwww!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_EnergyLow00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_EnergyLow00.mp3",
      "text": "Feeling sluggish here."
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Death00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Death00.mp3",
      "text": "Ah! Medic!"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Death01.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Death01.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Death02.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Death02.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Death03.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Death03.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Death04.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Death04.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Death05.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Death05.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-medic/Medic_Flare00.ogg",
+     "file": "assets/audio/en/terran/t-medic/Medic_Flare00.mp3",
      "text": "Heads up!"
     }
    ]
@@ -779,141 +779,141 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Ready00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Ready00.mp3",
      "text": "Goliath online."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Help00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Help00.mp3",
      "text": "Assistance required."
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_What00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_What00.mp3",
      "text": "Go ahead, [http://acronyms.thefreedictionary.com/TACCOM TACCOM]."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_What01.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_What01.mp3",
      "text": "Comm-link online."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_What02.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_What02.mp3",
      "text": "Channel open."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_What03.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_What03.mp3",
      "text": "Systems functional."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes00.mp3",
      "text": "Acknowledged H.Q."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes01.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes01.mp3",
      "text": "Nav-comm locked."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes02.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes02.mp3",
      "text": "Confirmed."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes03.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes03.mp3",
      "text": "Target designated."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes04.mp3",
      "text": "Affirmative."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes05.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Yes05.mp3",
      "text": "Data received, [http://acronyms.thefreedictionary.com/TACCOM TACCOM]."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Attack00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Attack00.mp3",
      "text": "Weapons hot."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Attack01.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Attack01.mp3",
      "text": "Locked on target."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Attack02.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Attack02.mp3",
      "text": "Engaging."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed00.mp3",
      "text": "MilSpec ED-209 online."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed01.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed01.mp3",
      "text": "Checklist protocol, initiated."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed02.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed02.mp3",
      "text": "Level one diagnostic."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed03.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed03.mp3",
      "text": "U.S.D.A. selected."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed04.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed04.mp3",
      "text": "F.D.I.C. approved."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed05.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed05.mp3",
      "text": "Checklist completed... S.O.B."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed06.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed06.mp3",
      "text": "Warning! Step away from the Goliath."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed07.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed07.mp3",
      "text": "Since the V.P. is such a V.I.P., shouldn't we keep the P.C. on the Q.T.? Because if it leaks to the V.C., he could end up M.I.A. Then we'd all be put on K.P."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed08.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed08.mp3",
      "text": "Aw, blinker fluid is low."
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed09.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed09.mp3",
      "text": "(Car door ajar beeps)"
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed10.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed10.mp3",
      "text": "(Car remote unlock beeps)"
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed11.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Pissed11.mp3",
      "text": "(Car alarm)"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/terran/t-goliath/Goliath_Evac00.ogg",
+     "file": "assets/audio/en/terran/t-goliath/Goliath_Evac00.mp3",
      "text": "Standing fast."
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/terran/t-goliath/goliath_groundattacklaunch0.ogg",
+     "file": "assets/audio/en/terran/t-goliath/goliath_groundattacklaunch0.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/goliath_groundattacklaunch1.ogg",
+     "file": "assets/audio/en/terran/t-goliath/goliath_groundattacklaunch1.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/terran/t-goliath/goliath_groundattacklaunch2.ogg",
+     "file": "assets/audio/en/terran/t-goliath/goliath_groundattacklaunch2.mp3",
      "text": "Выстрел 3"
     }
    ]
@@ -925,193 +925,193 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Ready00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Ready00.mp3",
      "text": "Let's make it count."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Help00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Help00.mp3",
      "text": "I'm getting buried here!"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Help01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Help01.mp3",
      "text": "This don't look good."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Help02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Help02.mp3",
      "text": "Fat lady's about to sing."
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_What00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_What00.mp3",
      "text": "What's up."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_What01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_What01.mp3",
      "text": "Talk to me."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_What02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_What02.mp3",
      "text": "What's the plan?"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_What03.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_What03.mp3",
      "text": "Break it down."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_What04.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_What04.mp3",
      "text": "Sell me."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes05.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes05.mp3",
      "text": "Sounds like a plan."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes06.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes06.mp3",
      "text": "You can count on me."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed06.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed06.mp3",
      "text": "Raiders roll."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack04.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack04.mp3",
      "text": "Time to man up."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack00.mp3",
      "text": "Charge it."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack01.mp3",
      "text": "Give 'em some pepper."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack02.mp3",
      "text": "Kick ass!"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack03.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Attack03.mp3",
      "text": "Lethal."
     }
    ],
    "confirm": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe00.mp3",
      "text": "Right between the eyes."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe01.mp3",
      "text": "Say good night, ugly."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe02.mp3",
      "text": "You won't feel a thing."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe03.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Snipe03.mp3",
      "text": "Lights out."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed00.mp3",
      "text": "My dad raised me right... Tried to, anyway."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed01.mp3",
      "text": "I've seen a lot of good lives wasted."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed02.mp3",
      "text": "I always come through in a pinch."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed03.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed03.mp3",
      "text": "Everybody's gotta believe in something."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed04.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed04.mp3",
      "text": "I don't mind a reasonable amount of trouble."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed05.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed05.mp3",
      "text": "Koprulu: Love it or leave it!"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed07.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed07.mp3",
      "text": "Yippie-kai-yay."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed08.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed08.mp3",
      "text": "A country boy can survive!"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed09.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed09.mp3",
      "text": "You don't mess with the bourbon cowboy!"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed10.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed10.mp3",
      "text": "Now... I sure could use some Scotty Bolger's Old No. 8."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed11.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Pissed11.mp3",
      "text": "I got friends in the low places."
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death00.mp3",
      "text": "Goin' bust."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death01.mp3",
      "text": "Ah hell..."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death02.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death03.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death03.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death04.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death04.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death05.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death05.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Death06.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Death06.mp3",
      "text": "(Screams)"
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes00.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes00.mp3",
      "text": "Whatever's clever."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes01.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes01.mp3",
      "text": "It's aaall good."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes02.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes02.mp3",
      "text": "It is what it is."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes03.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes03.mp3",
      "text": "Aaall day long."
     },
     {
-     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes04.ogg",
+     "file": "assets/audio/en/terran/t-raynor/Raynor_Yes04.mp3",
      "text": "Take it to the limit."
     }
    ]
@@ -1123,185 +1123,185 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Ready00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Ready00.mp3",
      "text": "My life for Aiur!"
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Help00.mp3",
      "text": "We cannot hold!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/ZealotVoid_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/ZealotVoid_Help00.mp3",
      "text": "We embrace the glory of battle!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What00.mp3",
      "text": "My meditation is over."
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What01.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What01.mp3",
      "text": "Orin shis'nal!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What02.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What02.mp3",
      "text": "Command me."
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What03.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What03.mp3",
      "text": "Justice be done!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What04.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What04.mp3",
      "text": "We are the blades of Aiur!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What05.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What05.mp3",
      "text": "We stand as one!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_What06.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_What06.mp3",
      "text": "Na Adan Atum!"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes00.mp3",
      "text": "Honor guide me!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes01.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes01.mp3",
      "text": "En Taro Tassadar!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes02.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes02.mp3",
      "text": "By your will!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes03.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes03.mp3",
      "text": "Ul'as addari!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes04.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes04.mp3",
      "text": "Khassar de templari!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes05.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Yes05.mp3",
      "text": "For Artanis!"
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack00.mp3",
      "text": "Blades of justice!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack01.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack01.mp3",
      "text": "It must be done!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack02.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack02.mp3",
      "text": "None shall stand!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack03.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack03.mp3",
      "text": "Aru nal'adan!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack04.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack04.mp3",
      "text": "We strike as one!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack05.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack05.mp3",
      "text": "Our fury is boundless!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack06.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Attack06.mp3",
      "text": "None can withstand the Templar!"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed00.mp3",
      "text": "I am Templar! I am the sword of truth!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed01.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed01.mp3",
      "text": "Combat is the anvil of will!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed02.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed02.mp3",
      "text": "Our enemies must be eradicated!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed03.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed03.mp3",
      "text": "Victory is the only truth that matters!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed04.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed04.mp3",
      "text": "Fear is for the enemy!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed05.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed05.mp3",
      "text": "Do NOT make me count to Zmidlarj!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed06.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed06.mp3",
      "text": "It is said that ignorance is bliss. Tell me, is that true?"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed07.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Pissed07.mp3",
      "text": "How peaceful it must be for you to have a mind unburdened by thought!"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death00.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death00.mp3",
      "text": "Khala embrace me!"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death01.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death01.mp3",
      "text": "(screams)"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death02.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death02.mp3",
      "text": "(screams)"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death03.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death03.mp3",
      "text": "(screams)"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death04.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/Zealot_Death04.mp3",
      "text": "(screams)"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch0.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch0.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch1.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch1.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch2.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch2.mp3",
      "text": "Выстрел 3"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch3.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch3.mp3",
      "text": "Выстрел 4"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch4.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch4.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch5.ogg",
+     "file": "assets/audio/en/protoss/p-zealot/zealot_attacklaunch5.mp3",
      "text": "Выстрел 6"
     }
    ]
@@ -1313,221 +1313,221 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Ready00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Ready00.mp3",
      "text": "Glory to the Daelaam."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Ready01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Ready01.mp3",
      "text": "The Firstborn shall persevere."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Help00.mp3",
      "text": "I have met the enemy!"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Help01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Help01.mp3",
      "text": "Glorious combat is upon us!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What00.mp3",
      "text": "Give us your command."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What01.mp3",
      "text": "Let your will be heard."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What02.mp3",
      "text": "Aiur shall be reclaimed."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What03.mp3",
      "text": "Yes, Executor?"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What04.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What04.mp3",
      "text": "Where shall we march?"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What05.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What05.mp3",
      "text": "Combat awaits."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What06.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What06.mp3",
      "text": "We serve with pride."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_What07.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_What07.mp3",
      "text": "Na ja'kar meena."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes00.mp3",
      "text": "Faith before fear."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes01.mp3",
      "text": "It shall be done."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes02.mp3",
      "text": "We are of one mind."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes03.mp3",
      "text": "The Templar march."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes04.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes04.mp3",
      "text": "Let none deter us."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes05.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes05.mp3",
      "text": "To glory."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes06.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes06.mp3",
      "text": "Por zalah."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Yes07.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Yes07.mp3",
      "text": "Forward."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack00.mp3",
      "text": "I am the will of the Hierarch."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack01.mp3",
      "text": "May your death be swift."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack02.mp3",
      "text": "To glorious battle."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack03.mp3",
      "text": "Spare none who oppose us."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack04.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack04.mp3",
      "text": "Victory for the Firstborn!"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack05.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack05.mp3",
      "text": "For Selendis!"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack06.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack06.mp3",
      "text": "Glaive cannon armed."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Attack07.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Attack07.mp3",
      "text": "Eradication."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed00.mp3",
      "text": "We are the stewards of the hierarchy."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed01.mp3",
      "text": "Aiur will be reclaimed at any cost."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed02.mp3",
      "text": "Some Templar identify as a shield. Stalwart and unbreakable, defenders of truth."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed03.mp3",
      "text": "Others see themselves as a weapon. Powerful and precise."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed04.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed04.mp3",
      "text": "I say, why not be both?"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed05.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed05.mp3",
      "text": "With the right training, anyone can be in two places at once. But their mind must be fully open. Oh, and they need a psionic amplifier. That helps too."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed06.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed06.mp3",
      "text": "Chasing after your own shade is a pointless endeavor. I mean, it moves so quickly."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed07.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed07.mp3",
      "text": "Why yes, you could say I have... some skill."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed08.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed08.mp3",
      "text": "What? Just because I'm called an adept doesn't mean I need to brag about it."
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed09.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Pissed09.mp3",
      "text": "I'm here. (shade sound) I'm there. (shade sound) I'm...still here. At least for a few more seconds."
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Death00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Death00.mp3",
      "text": "For... Aiur!"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Death01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Death01.mp3",
      "text": "(Groans)"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Death02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Death02.mp3",
      "text": "(Groans)"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/Adept_Death03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/Adept_Death03.mp3",
      "text": "(Groans)"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact00.mp3",
      "text": "Попадание 1"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact01.mp3",
      "text": "Попадание 2"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact02.mp3",
      "text": "Попадание 3"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attackimpact03.mp3",
      "text": "Попадание 4"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch00.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch00.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch01.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch01.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch02.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch02.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch03.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch03.mp3",
      "text": "Выстрел 8"
     },
     {
-     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch04.ogg",
+     "file": "assets/audio/en/protoss/p-adept/adept_attacklaunch04.mp3",
      "text": "Выстрел 9"
     }
    ]
@@ -1539,109 +1539,109 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Ready00.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Ready00.mp3",
      "text": "Trained."
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_What00.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_What00.mp3",
      "text": "Selected 1."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_What01.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_What01.mp3",
      "text": "Selected 2."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_What02.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_What02.mp3",
      "text": "Selected 3."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_What03.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_What03.mp3",
      "text": "Selected 4."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_What04.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_What04.mp3",
      "text": "Selected 5."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_What05.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_What05.mp3",
      "text": "Selected 6."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes00.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes00.mp3",
      "text": "Confirm 1."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes01.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes01.mp3",
      "text": "Confirm 2."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes02.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes02.mp3",
      "text": "Confirm 3."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes03.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Yes03.mp3",
      "text": "Confirm 4."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack00.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack00.mp3",
      "text": "Attack 1."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack01.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack01.mp3",
      "text": "Attack 2."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack02.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack02.mp3",
      "text": "Attack 3."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack03.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack03.mp3",
      "text": "Attack 4."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack04.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack04.mp3",
      "text": "Attack 5."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack05.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Attack05.mp3",
      "text": "Attack 6."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed00.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed00.mp3",
      "text": "Repeatedly Selected 1."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed01.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed01.mp3",
      "text": "Repeatedly Selected 2."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed02.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed02.mp3",
      "text": "Repeatedly Selected 3."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed03.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Pissed03.mp3",
      "text": "Repeatedly Selected 4."
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Death00.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Death00.mp3",
      "text": "Death 1."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Death01.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Death01.mp3",
      "text": "Death 2."
     },
     {
-     "file": "assets/audio/en/protoss/p-sentry/Sentry_Death02.ogg",
+     "file": "assets/audio/en/protoss/p-sentry/Sentry_Death02.mp3",
      "text": "Death 3."
     }
    ]
@@ -1653,217 +1653,217 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Ready00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Ready00.mp3",
      "text": "I am here in the shadows."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Help00.mp3",
      "text": "Fall back to the shadows!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/StalkerVoid_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/StalkerVoid_Help00.mp3",
      "text": "Let our enemy know our fury."
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_What00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_What00.mp3",
      "text": "Cold is the Void..."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_What01.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_What01.mp3",
      "text": "I am the heart of darkness."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_What02.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_What02.mp3",
      "text": "You require my skills?"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_What03.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_What03.mp3",
      "text": "I am the voice of the eclipse."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_What04.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_What04.mp3",
      "text": "State thy bidding."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_What05.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_What05.mp3",
      "text": "We are one with the shadows."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes00.mp3",
      "text": "Very well."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes01.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes01.mp3",
      "text": "It shall be as you say."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes02.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes02.mp3",
      "text": "Intriguing..."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes03.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes03.mp3",
      "text": "Veraku."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes04.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes04.mp3",
      "text": "I serve... for now."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes05.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes05.mp3",
      "text": "We move unseen."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes06.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes06.mp3",
      "text": "For the reckoning!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes07.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Yes07.mp3",
      "text": "Very wise."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack00.mp3",
      "text": "Death comes to all!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack01.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack01.mp3",
      "text": "Doom'ha du nala!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack02.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack02.mp3",
      "text": "The Void hungers!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack03.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack03.mp3",
      "text": "Cold fury!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack04.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack04.mp3",
      "text": "Antu'kha."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack05.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack05.mp3",
      "text": "Forever sleep!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack06.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack06.mp3",
      "text": "Complete the cycle!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack07.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Attack07.mp3",
      "text": "For Shakuras!"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed00.mp3",
      "text": "My heart is colder than these steel limbs..."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed01.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed01.mp3",
      "text": "Twilight comes... As it must."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed02.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed02.mp3",
      "text": "We are all but shadows in the Void."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed03.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed03.mp3",
      "text": "I hear the call of the stars..."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed04.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed04.mp3",
      "text": "Night falls... and so will you!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed05.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed05.mp3",
      "text": "I AM ONE with the darkness! (crashing sound) Ouch... that hurt..."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed06.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed06.mp3",
      "text": "You look better in the dark!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed07.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed07.mp3",
      "text": "Don't Blink...or you'll miss me!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed08.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed08.mp3",
      "text": "Now you see me. Now you don't! (pause) Oh wait, here I am..."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed09.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed09.mp3",
      "text": "You went to bed early last night."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed10.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed10.mp3",
      "text": "I see you turned off your phone."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed11.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed11.mp3",
      "text": "You never return my calls."
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed12.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed12.mp3",
      "text": "I'm your biggest fan!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed13.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed13.mp3",
      "text": "Restraining order... what about our love?!"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed14.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Pissed14.mp3",
      "text": "I have pictures of you (pause) hundreds!"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/Stalker_Death00.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/Stalker_Death00.mp3",
      "text": "Finally..."
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact0.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact0.mp3",
      "text": "Попадание 1"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact1.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact1.mp3",
      "text": "Попадание 2"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact2.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact2.mp3",
      "text": "Попадание 3"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact3.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attackimpact3.mp3",
      "text": "Попадание 4"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch0.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch0.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch1.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch1.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch2.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch2.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch3.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch3.mp3",
      "text": "Выстрел 8"
     },
     {
-     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch4.ogg",
+     "file": "assets/audio/en/protoss/p-stalker/stalker_attacklaunch4.mp3",
      "text": "Выстрел 9"
     }
    ]
@@ -1875,145 +1875,145 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Ready00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Ready00.mp3",
      "text": "We must stand as one."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Help00.mp3",
      "text": "Stand with me!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What00.mp3",
      "text": "Dawn will come."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What01.mp3",
      "text": "We shall prevail."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What02.mp3",
      "text": "Faith before fear."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What03.mp3",
      "text": "Strength in unity."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_What04.mp3",
      "text": "Harak en vaiash."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes00.mp3",
      "text": "Our thoughts are one!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes01.mp3",
      "text": "Our path is clear!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes02.mp3",
      "text": "There can be no doubt!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Yes03.mp3",
      "text": "March boldly, without fear."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack00.mp3",
      "text": "Vanquish!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack01.mp3",
      "text": "Shakhal zann!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack02.mp3",
      "text": "Adun, guide my hand."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack03.mp3",
      "text": "Triumph through sacrifice."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Attack04.mp3",
      "text": "They will meet justice."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed00.mp3",
      "text": "You would spread discord among us?!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed01.mp3",
      "text": "I am gravely disappointed in you."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed02.mp3",
      "text": "I must practice tolerance."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed03.mp3",
      "text": "I am not easily provoked."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Pissed04.mp3",
      "text": "Die! Die! DIE!"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Death00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/Artanis_Death00.mp3",
      "text": "Has it all been for nothing...? (when killed)"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/TZeratul04Artanis00026.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/TZeratul04Artanis00026.mp3",
      "text": "Kerrigan... how could we have known?! (when killed in In Utter Darkness)"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch01.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch02.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch03.mp3",
      "text": "Выстрел 3"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch04.mp3",
      "text": "Выстрел 4"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch05.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch05.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch06.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch06.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch07.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch07.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch08.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch08.mp3",
      "text": "Выстрел 8"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch09.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-wol/artanis_psibladeattacklaunch09.mp3",
      "text": "Выстрел 9"
     }
    ]
@@ -2025,167 +2025,167 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Ready00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Ready00.mp3",
      "text": "We must stand as one."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Help00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Help00.mp3",
      "text": "Stand with me!"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What00.mp3",
      "text": "Dawn will come."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What01.mp3",
      "text": "We shall prevail."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What02.mp3",
      "text": "Our destiny awaits."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What03.mp3",
      "text": "Strength in unity."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What04.mp3",
      "text": "Harak en vaiash."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What05.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What05.mp3",
      "text": "Change is upon us."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What06.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_What06.mp3",
      "text": "I serve my people."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes00.mp3",
      "text": "A bold plan."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes01.mp3",
      "text": "Our path is clear."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes02.mp3",
      "text": "There can be no doubt!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes03.mp3",
      "text": "Together we are strong."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes04.mp3",
      "text": "With honor I lead."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes05.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Yes05.mp3",
      "text": "The future is ours."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack00.mp3",
      "text": "Vanquish!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack01.mp3",
      "text": "Shakhal zann!"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack02.mp3",
      "text": "En Taro Zeratul."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack03.mp3",
      "text": "Triumph through sacrifice."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack04.mp3",
      "text": "They will meet justice."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack05.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack05.mp3",
      "text": "We fight against the darkness."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack06.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Attack06.mp3",
      "text": "This duty is mine."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed00.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed00.mp3",
      "text": "I will bring unity to the Firstborn."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed01.mp3",
      "text": "We shall forge a new peace."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed02.mp3",
      "text": "I might be Hierarch, yes, but that does not mean I enjoy speaking at great length."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed03.mp3",
      "text": "You are quite insistent, aren't you. Perhaps you are part Tal'darim."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed04.mp3",
      "text": "When I was a Templar, I could solve problems with a psi blade... if you take my meaning."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed05.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed05.mp3",
      "text": "Adun, Tassadar, Zeratul. All of my mentors met an early end. Perhaps the cost of greatness is too high."
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed06.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/ArtanisVoid_Pissed06.mp3",
      "text": "Have you ever said my name backwards? There is a... strange music to it."
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch01.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch01.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch02.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch02.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch03.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch03.mp3",
      "text": "Выстрел 3"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch04.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch04.mp3",
      "text": "Выстрел 4"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch05.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch05.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch06.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch06.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch07.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch07.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch08.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch08.mp3",
      "text": "Выстрел 8"
     },
     {
-     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch09.ogg",
+     "file": "assets/audio/en/protoss/p-artanis-lotv/artanis_psibladeattacklaunch09.mp3",
      "text": "Выстрел 9"
     }
    ]
@@ -2197,149 +2197,149 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Ready0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Ready0.mp3",
      "text": "Spawned 1."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Ready1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Ready1.mp3",
      "text": "Spawned 2."
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What0.mp3",
      "text": "Selected 1."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What1.mp3",
      "text": "Selected 2."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What2.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What2.mp3",
      "text": "Selected 3."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What3.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What3.mp3",
      "text": "Selected 4."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What4.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What4.mp3",
      "text": "Selected 5."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What5.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_What5.mp3",
      "text": "Selected 6."
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes0.mp3",
      "text": "Confirm 1."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes1.mp3",
      "text": "Confirm 2."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes2.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes2.mp3",
      "text": "Confirm 3."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes3.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes3.mp3",
      "text": "Confirm 4."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes4.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes4.mp3",
      "text": "Confirm 5."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes5.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes5.mp3",
      "text": "Confirm 6."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes6.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes6.mp3",
      "text": "Confirm 7."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes7.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Yes7.mp3",
      "text": "Confirm 8."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack0.mp3",
      "text": "Attack 1."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack1.mp3",
      "text": "Attack 2."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack2.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack2.mp3",
      "text": "Attack 3."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack3.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack3.mp3",
      "text": "Attack 4."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack4.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Attack4.mp3",
      "text": "Attack 5."
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death0.mp3",
      "text": "Death 1."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death1.mp3",
      "text": "Death 2."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death2.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death2.mp3",
      "text": "Death 3."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death3.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death3.mp3",
      "text": "Death 4."
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death4.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/Hydralisk_Death4.mp3",
      "text": "Death 5."
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged0.mp3",
      "text": "Попадание 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged1.mp3",
      "text": "Попадание 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged2.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged2.mp3",
      "text": "Попадание 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged3.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attackimpactranged3.mp3",
      "text": "Попадание 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged0.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged0.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged1.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged1.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged2.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged2.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged3.ogg",
+     "file": "assets/audio/en/zerg/z-hydralisk/hydralisk_attacklaunchranged3.mp3",
      "text": "Выстрел 8"
     }
    ]
@@ -2351,187 +2351,187 @@
   "categories": {
    "attack": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attack0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attack0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attack1.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attack1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attack2.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attack2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attack3.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attack3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attack4.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attack4.mp3",
      "text": "Реплика 5"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_death0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_death0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_death1.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_death1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_death2.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_death2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_death3.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_death3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_death4.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_death4.mp3",
      "text": "Реплика 5"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_pissed0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_pissed0.mp3",
      "text": "Реплика 1"
     }
    ],
    "arrive": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_ready0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_ready0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_ready1.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_ready1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_ready2.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_ready2.mp3",
      "text": "Реплика 3"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_what0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_what0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_what1.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_what1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_what2.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_what2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_what3.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_what3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_what4.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_what4.mp3",
      "text": "Реплика 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_what5.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_what5.mp3",
      "text": "Реплика 6"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes1.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes2.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes3.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes4.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes4.mp3",
      "text": "Реплика 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes5.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes5.mp3",
      "text": "Реплика 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_yes6.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_yes6.mp3",
      "text": "Реплика 7"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch0.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch0.mp3",
      "text": "Выстрел 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch1.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch1.mp3",
      "text": "Выстрел 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch10.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch10.mp3",
      "text": "Выстрел 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch11.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch11.mp3",
      "text": "Выстрел 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch12.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch12.mp3",
      "text": "Выстрел 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch13.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch13.mp3",
      "text": "Выстрел 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch14.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch14.mp3",
      "text": "Выстрел 7"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch15.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch15.mp3",
      "text": "Выстрел 8"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch2.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch2.mp3",
      "text": "Выстрел 9"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch3.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch3.mp3",
      "text": "Выстрел 10"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch4.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch4.mp3",
      "text": "Выстрел 11"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch5.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch5.mp3",
      "text": "Выстрел 12"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch6.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch6.mp3",
      "text": "Выстрел 13"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch7.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch7.mp3",
      "text": "Выстрел 14"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch8.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch8.mp3",
      "text": "Выстрел 15"
     },
     {
-     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch9.ogg",
+     "file": "assets/audio/en/zerg/z-zergling/zergling_attacklaunch9.mp3",
      "text": "Выстрел 16"
     }
    ]
@@ -2543,227 +2543,227 @@
   "categories": {
    "attack": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attack0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attack0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attack1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attack1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attack2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attack2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attack3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attack3.mp3",
      "text": "Реплика 4"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_death0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_death0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_death1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_death1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_death2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_death2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_death3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_death3.mp3",
      "text": "Реплика 4"
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_pissed0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_pissed0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_pissed1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_pissed1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_pissed2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_pissed2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_pissed3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_pissed3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_pissed4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_pissed4.mp3",
      "text": "Реплика 5"
     }
    ],
    "arrive": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_ready0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_ready0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_ready1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_ready1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_ready2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_ready2.mp3",
      "text": "Реплика 3"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_what0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_what0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_what1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_what1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_what2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_what2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_what3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_what3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_what4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_what4.mp3",
      "text": "Реплика 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_what5.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_what5.mp3",
      "text": "Реплика 6"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_yes0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_yes0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_yes1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_yes1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_yes2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_yes2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_yes3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_yes3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_yes4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_yes4.mp3",
      "text": "Реплика 5"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee0.mp3",
      "text": "Удар 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee1.mp3",
      "text": "Удар 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee2.mp3",
      "text": "Удар 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee3.mp3",
      "text": "Удар 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactmelee4.mp3",
      "text": "Удар 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged0.mp3",
      "text": "Попадание 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged1.mp3",
      "text": "Попадание 7"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged2.mp3",
      "text": "Попадание 8"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged3.mp3",
      "text": "Попадание 9"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged4.mp3",
      "text": "Попадание 10"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged5.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged5.mp3",
      "text": "Попадание 11"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged6.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged6.mp3",
      "text": "Попадание 12"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged7.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged7.mp3",
      "text": "Попадание 13"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged8.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged8.mp3",
      "text": "Попадание 14"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged9.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attackimpactranged9.mp3",
      "text": "Попадание 15"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee0.mp3",
      "text": "Удар 16"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee1.mp3",
      "text": "Удар 17"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee2.mp3",
      "text": "Удар 18"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee3.mp3",
      "text": "Удар 19"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchmelee4.mp3",
      "text": "Удар 20"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged0.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged0.mp3",
      "text": "Выстрел 21"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged1.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged1.mp3",
      "text": "Выстрел 22"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged2.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged2.mp3",
      "text": "Выстрел 23"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged3.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged3.mp3",
      "text": "Выстрел 24"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged4.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged4.mp3",
      "text": "Выстрел 25"
     },
     {
-     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged5.ogg",
+     "file": "assets/audio/en/zerg/z-roach/roach_attacklaunchranged5.mp3",
      "text": "Выстрел 26"
     }
    ]
@@ -2775,161 +2775,161 @@
   "categories": {
    "attack": [
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack1.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack2.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack3.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack4.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack4.mp3",
      "text": "Реплика 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack5.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack5.mp3",
      "text": "Реплика 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack6.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack6.mp3",
      "text": "Реплика 7"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack7.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack7.mp3",
      "text": "Реплика 8"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack8.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack8.mp3",
      "text": "Реплика 9"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attack9.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attack9.mp3",
      "text": "Реплика 10"
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_death0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_death0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_death1.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_death1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_death2.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_death2.mp3",
      "text": "Реплика 3"
     }
    ],
    "arrive": [
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_ready0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_ready0.mp3",
      "text": "Реплика 1"
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what1.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what2.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what3.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what4.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what4.mp3",
      "text": "Реплика 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what5.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what5.mp3",
      "text": "Реплика 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what6.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what6.mp3",
      "text": "Реплика 7"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_what7.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_what7.mp3",
      "text": "Реплика 8"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes0.mp3",
      "text": "Реплика 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes1.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes1.mp3",
      "text": "Реплика 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes2.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes2.mp3",
      "text": "Реплика 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes3.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes3.mp3",
      "text": "Реплика 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes4.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes4.mp3",
      "text": "Реплика 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes5.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes5.mp3",
      "text": "Реплика 6"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes6.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes6.mp3",
      "text": "Реплика 7"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes7.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes7.mp3",
      "text": "Реплика 8"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_yes8.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_yes8.mp3",
      "text": "Реплика 9"
     }
    ],
    "sfx": [
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged0.mp3",
      "text": "Попадание 1"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged1.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged1.mp3",
      "text": "Попадание 2"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged2.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged2.mp3",
      "text": "Попадание 3"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged3.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged3.mp3",
      "text": "Попадание 4"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged4.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queen_attackimpactranged4.mp3",
      "text": "Попадание 5"
     },
     {
-     "file": "assets/audio/en/zerg/z-queen/queenofblades_rangedattacklaunch0.ogg",
+     "file": "assets/audio/en/zerg/z-queen/queenofblades_rangedattacklaunch0.mp3",
      "text": "Выстрел 6"
     }
    ]
@@ -2941,79 +2941,79 @@
   "categories": {
    "arrive": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_ready00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_ready00.mp3",
      "text": "Here I come, ready or not."
     }
    ],
    "hurt": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_help00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_help00.mp3",
      "text": "Now I'm mad."
     }
    ],
    "select": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_what00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_what00.mp3",
      "text": "Wanna play?"
     }
    ],
    "move": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_yes00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_yes00.mp3",
      "text": "Don't get in my way."
     }
    ],
    "attack": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_attack00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_attack00.mp3",
      "text": "The Swarm will consume all."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_attack01.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_attack01.mp3",
      "text": "The outcome is not in question."
     }
    ],
    "witty": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed00.mp3",
      "text": "The past is dead and buried."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed01.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed01.mp3",
      "text": "Don't get yourself into something you can't get out of."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed02.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed02.mp3",
      "text": "Yeah, I'm still the Queen Bitch of the Universe."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed03.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed03.mp3",
      "text": "You pig!"
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed04.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed04.mp3",
      "text": "I'm all creeped out."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed05.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed05.mp3",
      "text": "Come closer. Don't be afraid, I'll be gentle...(screech)"
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed06.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed06.mp3",
      "text": "I like you. That's why I'm going to kill you last."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed07.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed07.mp3",
      "text": "Nice planet. I'll take it."
     },
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed08.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_pissed08.mp3",
      "text": "You're even more desperate than I thought."
     }
    ],
    "other": [
     {
-     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_death00.ogg",
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_death00.mp3",
      "text": "I'm full of surprises..."
     }
    ]
