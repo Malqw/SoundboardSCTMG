@@ -2,17 +2,61 @@
   'use strict';
 
   const FAV_KEY = 'sctmg-soundboard-favorites-v1';
+  const LANG_KEY = 'sctmg-soundboard-lang-v1';
+  const TMG_KEY = 'sctmg-soundboard-tmg-only-v1';
+
+  const LANGS = [
+    { key: 'en', label: 'EN', file: 'data/quotes.en.json' },
+    { key: 'ru', label: 'RU', file: 'data/quotes.ru.json' },
+    { key: 'classic', label: 'SC1', file: 'data/quotes.classic.json' },
+  ];
 
   const state = {
     unitsCfg: null,
-    quotes: null,
+    packs: {},           // lang key -> loaded quotes data
+    quotes: null,         // = state.packs[state.lang], kept in sync in setLang()
+    lang: loadLang(),
     tab: 'terran',
     search: '',
     openUnit: null,
     activeCategory: {},   // unitKey -> category
     activeVariant: {},    // baseName -> unitKey (for hero variants like Artanis)
     favorites: loadFavorites(),
+    tmgOnly: loadTmgOnly(),
+    music: [],
+    musicSource: 'sc2',    // 'sc2' | 'sc1' — which playlist sub-tab is shown
+    musicIndex: null,      // key of the currently playing track, or null if nothing loaded
   };
+
+  function loadLang() {
+    try {
+      const v = localStorage.getItem(LANG_KEY);
+      return LANGS.some((l) => l.key === v) ? v : 'en';
+    } catch {
+      return 'en';
+    }
+  }
+  function saveLang() {
+    try { localStorage.setItem(LANG_KEY, state.lang); } catch { /* ignore */ }
+  }
+
+  function loadTmgOnly() {
+    try {
+      const v = localStorage.getItem(TMG_KEY);
+      return v === null ? true : v === '1';
+    } catch {
+      return true;
+    }
+  }
+  function saveTmgOnly() {
+    try { localStorage.setItem(TMG_KEY, state.tmgOnly ? '1' : '0'); } catch { /* ignore */ }
+  }
+
+  // 'en'/'ru' packs are StarCraft II audio, 'classic' is StarCraft (1998) audio —
+  // the unit roster shown must match whichever game the active pack belongs to.
+  function currentGame() {
+    return state.lang === 'classic' ? 'sc1' : 'sc2';
+  }
 
   function loadFavorites() {
     try {
@@ -27,8 +71,10 @@
     } catch { /* storage unavailable, ignore */ }
   }
 
-  function quoteId(unitKey, category, file) {
-    return `${unitKey}::${category}::${file}`;
+  // Index-based, not file-based: the same logical quote points at a different audio
+  // file per language pack, but should stay favorited/identifiable across the switch.
+  function quoteId(unitKey, category, index) {
+    return `${unitKey}::${category}::${index}`;
   }
 
   let currentAudio = null;
@@ -57,9 +103,85 @@
     toastTimer = setTimeout(() => { el.hidden = true; }, 2200);
   }
 
+  // --- background music player: independent of quote playback, keeps going while
+  // browsing other tabs (persistent <audio>, mini-player bar rendered outside #content) ---
+  const musicAudio = new Audio();
+  musicAudio.addEventListener('timeupdate', updateMiniProgress);
+  musicAudio.addEventListener('ended', () => stepMusic(1));
+  musicAudio.addEventListener('error', () => showToast('Не удалось воспроизвести трек'));
+
+  // Playing track is tracked by its unique `key`, not array index — indices shift
+  // when the SC1/SC2 filter changes, a stable key doesn't.
+  function currentMusicList() {
+    return state.music.filter((t) => t.source === state.musicSource);
+  }
+
+  function playMusicByKey(key) {
+    const track = state.music.find((t) => t.key === key);
+    if (!track) return;
+    state.musicIndex = key;
+    musicAudio.src = track.file;
+    musicAudio.play().catch(() => showToast('Нажмите play ещё раз (браузер заблокировал автовоспроизведение)'));
+    updateMiniPlayer();
+    if (state.tab === 'music') render();
+  }
+
+  function stepMusic(delta) {
+    const list = currentMusicList();
+    if (!list.length) return;
+    const pos = list.findIndex((t) => t.key === state.musicIndex);
+    const next = ((pos + delta) % list.length + list.length) % list.length;
+    playMusicByKey(list[next].key);
+  }
+
+  function toggleMusicByKey(key) {
+    if (state.musicIndex === key && !musicAudio.paused) {
+      musicAudio.pause();
+      updateMiniPlayer();
+      if (state.tab === 'music') render();
+    } else if (state.musicIndex === key) {
+      musicAudio.play().catch(() => {});
+      updateMiniPlayer();
+    } else {
+      playMusicByKey(key);
+    }
+  }
+
+  function stopMusic() {
+    musicAudio.pause();
+    musicAudio.removeAttribute('src');
+    state.musicIndex = null;
+    updateMiniPlayer();
+    if (state.tab === 'music') render();
+  }
+
+  function updateMiniProgress() {
+    const fill = document.getElementById('miniProgress');
+    if (!fill || !musicAudio.duration) return;
+    fill.style.width = `${(musicAudio.currentTime / musicAudio.duration) * 100}%`;
+  }
+
+  function updateMiniPlayer() {
+    const bar = document.getElementById('miniPlayer');
+    if (state.musicIndex === null) {
+      bar.hidden = true;
+      return;
+    }
+    bar.hidden = false;
+    const track = state.music.find((t) => t.key === state.musicIndex);
+    document.getElementById('miniTrackName').textContent = track ? track.name : '';
+    document.getElementById('miniPlayToggle').textContent = musicAudio.paused ? '▶' : '⏸';
+  }
+
   // --- grouping heroes with multiple variants (e.g. Artanis LotV/WoL) under one card ---
   function groupUnitsForFaction(faction) {
-    const units = state.unitsCfg.units.filter((u) => u.faction === faction);
+    const game = currentGame();
+    const units = state.unitsCfg.units.filter(
+      (u) =>
+        u.faction === faction &&
+        (!state.tmgOnly || u.tmg === true) &&
+        (!u.games || u.games.includes(game))
+    );
     const groups = [];
     const seenBase = new Map();
     for (const u of units) {
@@ -87,7 +209,8 @@
     );
     tabsEl.innerHTML =
       factionTabs.join('') +
-      `<button class="tab-btn" data-tab="favorites">★ Избранное</button>`;
+      `<button class="tab-btn" data-tab="favorites">★ Избранное</button>` +
+      `<button class="tab-btn" data-tab="music">🎵 Музыка</button>`;
     tabsEl.querySelectorAll('.tab-btn').forEach((btn) => {
       btn.classList.toggle('active', btn.dataset.tab === state.tab);
       btn.addEventListener('click', () => {
@@ -111,8 +234,8 @@
     const lines = (q && q.categories[category]) || [];
     if (!lines.length) return '<div class="empty-state">Нет реплик в этой категории.</div>';
     return `<div class="quote-list">${lines
-      .map((line) => {
-        const id = quoteId(unitKey, category, line.file);
+      .map((line, index) => {
+        const id = quoteId(unitKey, category, index);
         const fav = state.favorites.has(id);
         return `
         <div class="quote-row" data-file="${escapeAttr(line.file)}">
@@ -183,12 +306,15 @@
   }
 
   function flattenAllQuotes() {
+    const game = currentGame();
     const out = [];
     for (const unit of state.unitsCfg.units) {
+      if (state.tmgOnly && unit.tmg !== true) continue;
+      if (unit.games && !unit.games.includes(game)) continue;
       const q = state.quotes[unit.key];
       if (!q) continue;
       for (const [cat, lines] of Object.entries(q.categories)) {
-        for (const line of lines) out.push({ unit, category: cat, ...line });
+        lines.forEach((line, index) => out.push({ unit, category: cat, index, ...line }));
       }
     }
     return out;
@@ -197,8 +323,8 @@
   function renderFlatQuoteList(items, emptyMsg) {
     if (!items.length) return `<div class="empty-state">${emptyMsg}</div>`;
     return `<div class="quote-list">${items
-      .map(({ unit, category, file, text }) => {
-        const id = quoteId(unit.key, category, file);
+      .map(({ unit, category, index, file, text }) => {
+        const id = quoteId(unit.key, category, index);
         const fav = state.favorites.has(id);
         const catLabel = state.unitsCfg.categoryLabels[category] || category;
         return `
@@ -219,6 +345,44 @@
       .join('')}</div>`;
   }
 
+  function renderMusicTab() {
+    const sourceRow = `<div class="variant-row">${[
+      { key: 'sc2', label: 'StarCraft II' },
+      { key: 'sc1', label: 'StarCraft (классика)' },
+    ]
+      .map(
+        (s) =>
+          `<button class="variant-btn ${s.key === state.musicSource ? 'active' : ''}" data-music-source="${s.key}">${s.label}</button>`
+      )
+      .join('')}</div>`;
+
+    const list = currentMusicList();
+    if (!list.length) return sourceRow + '<div class="empty-state">Треков пока нет.</div>';
+    const rows = list
+      .map((track) => {
+        const isPlaying = state.musicIndex === track.key && !musicAudio.paused;
+        return `
+        <div class="music-row ${isPlaying ? 'playing' : ''}" data-key="${escapeAttr(track.key)}">
+          <span class="icon">${isPlaying ? '⏸' : '▶'}</span>
+          <span class="music-name">${escapeHtml(track.name)}</span>
+        </div>`;
+      })
+      .join('');
+    return `${sourceRow}<div class="music-hint">Фоновая музыка — играет, пока вы листаете сайт.</div><div class="music-list">${rows}</div>`;
+  }
+
+  function wireMusicRows(root) {
+    root.querySelectorAll('.music-row').forEach((row) => {
+      row.addEventListener('click', () => toggleMusicByKey(row.dataset.key));
+    });
+    root.querySelectorAll('[data-music-source]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        state.musicSource = btn.dataset.musicSource;
+        render();
+      });
+    });
+  }
+
   function render() {
     renderTabs();
     const content = document.getElementById('content');
@@ -233,9 +397,15 @@
 
     if (state.tab === 'favorites') {
       const all = flattenAllQuotes();
-      const items = all.filter((x) => state.favorites.has(quoteId(x.unit.key, x.category, x.file)));
+      const items = all.filter((x) => state.favorites.has(quoteId(x.unit.key, x.category, x.index)));
       content.innerHTML = renderFlatQuoteList(items, 'Пока пусто. Нажмите ☆ на реплике, чтобы добавить сюда.');
       wireQuoteButtons(content);
+      return;
+    }
+
+    if (state.tab === 'music') {
+      content.innerHTML = renderMusicTab();
+      wireMusicRows(content);
       return;
     }
 
@@ -294,13 +464,79 @@
     return escapeHtml(s);
   }
 
+  async function loadPack(langKey) {
+    if (state.packs[langKey]) return state.packs[langKey];
+    const lang = LANGS.find((l) => l.key === langKey);
+    const data = await fetch(lang.file).then((r) => r.json());
+    state.packs[langKey] = data;
+    return data;
+  }
+
+  async function setLang(langKey) {
+    if (langKey === state.lang && state.quotes) return;
+    await loadPack(langKey);
+    state.lang = langKey;
+    state.quotes = state.packs[langKey];
+    saveLang();
+    renderLangSwitch();
+    render();
+  }
+
+  function renderLangSwitch() {
+    const el = document.getElementById('langSwitch');
+    el.innerHTML = LANGS.map(
+      (l) => `<button class="lang-btn ${l.key === state.lang ? 'active' : ''}" data-lang="${l.key}">${l.label}</button>`
+    ).join('');
+    el.querySelectorAll('.lang-btn').forEach((btn) => {
+      btn.addEventListener('click', () => setLang(btn.dataset.lang));
+    });
+  }
+
+  function renderTmgToggle() {
+    const btn = document.getElementById('tmgToggle');
+    btn.classList.toggle('active', state.tmgOnly);
+    btn.textContent = state.tmgOnly ? 'TMG' : 'Все юниты';
+    btn.title = state.tmgOnly
+      ? 'Показаны только юниты StarCraft: The Miniatures Game. Нажмите, чтобы увидеть весь ростер игры.'
+      : 'Показан весь ростер игры. Нажмите, чтобы вернуться только к юнитам TMG.';
+  }
+
+  function wireMiniPlayer() {
+    document.getElementById('miniPlayToggle').addEventListener('click', () => {
+      if (state.musicIndex !== null) toggleMusicByKey(state.musicIndex);
+    });
+    document.getElementById('miniNext').addEventListener('click', () => {
+      if (state.musicIndex !== null) stepMusic(1);
+    });
+    document.getElementById('miniClose').addEventListener('click', stopMusic);
+    document.querySelector('.mini-progress-track').addEventListener('click', (e) => {
+      if (state.musicIndex === null || !musicAudio.duration) return;
+      const track = e.currentTarget;
+      const rect = track.getBoundingClientRect();
+      const ratio = Math.min(1, Math.max(0, (e.clientX - rect.left) / rect.width));
+      musicAudio.currentTime = ratio * musicAudio.duration;
+      updateMiniProgress();
+    });
+  }
+
   async function init() {
-    const [unitsCfg, quotes] = await Promise.all([
+    const [unitsCfg, music] = await Promise.all([
       fetch('data/units.json').then((r) => r.json()),
-      fetch('data/quotes.en.json').then((r) => r.json()),
+      fetch('data/music.json').then((r) => r.json()).catch(() => []),
     ]);
     state.unitsCfg = unitsCfg;
-    state.quotes = quotes;
+    state.music = music;
+    state.quotes = await loadPack(state.lang);
+
+    renderLangSwitch();
+    renderTmgToggle();
+    wireMiniPlayer();
+    document.getElementById('tmgToggle').addEventListener('click', () => {
+      state.tmgOnly = !state.tmgOnly;
+      saveTmgOnly();
+      renderTmgToggle();
+      render();
+    });
 
     const searchInput = document.getElementById('search');
     searchInput.addEventListener('input', () => {

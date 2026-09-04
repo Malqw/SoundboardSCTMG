@@ -1,38 +1,1635 @@
 {
-  "factions": [
-    { "key": "terran", "name": "Терраны", "color": "#5aa9e6" },
-    { "key": "protoss", "name": "Протоссы", "color": "#f0c14b" },
-    { "key": "zerg", "name": "Зерги", "color": "#b06be0" }
-  ],
-  "categoryLabels": {
-    "arrive": "Появление",
-    "hurt": "Ранен",
-    "select": "Выбор",
-    "move": "Приказ",
-    "attack": "Атака (голос)",
-    "sfx": "Бой (выстрел/удар)",
-    "confirm": "Действие",
-    "witty": "Шутки",
-    "other": "Смерть и разное"
+ "factions": [
+  {
+   "key": "terran",
+   "name": "Терраны",
+   "color": "#5aa9e6"
   },
-  "categoryOrder": ["arrive", "select", "move", "attack", "sfx", "confirm", "hurt", "witty", "other"],
-  "units": [
-    { "key": "t-marine", "faction": "terran", "name": "Морпех", "subtitle": "Marine" },
-    { "key": "t-marauder", "faction": "terran", "name": "Мародёр", "subtitle": "Marauder" },
-    { "key": "t-medic", "faction": "terran", "name": "Медик", "subtitle": "Medic" },
-    { "key": "t-goliath", "faction": "terran", "name": "Голиаф", "subtitle": "Goliath" },
-    { "key": "t-raynor", "faction": "terran", "name": "Джим Рейнор", "subtitle": "Jim Raynor", "hero": true },
-    { "key": "p-zealot", "faction": "protoss", "name": "Зилот", "subtitle": "Zealot" },
-    { "key": "p-adept", "faction": "protoss", "name": "Адепт", "subtitle": "Adept" },
-    { "key": "p-sentry", "faction": "protoss", "name": "Страж", "subtitle": "Sentry" },
-    { "key": "p-stalker", "faction": "protoss", "name": "Сталкер", "subtitle": "Stalker" },
-    { "key": "p-artanis-lotv", "faction": "protoss", "name": "Артанис", "subtitle": "Artanis · Legacy of the Void", "hero": true },
-    { "key": "p-artanis-wol", "faction": "protoss", "name": "Артанис (классика)", "subtitle": "Artanis · Wings of Liberty", "hero": true },
-    { "key": "z-hydralisk", "faction": "zerg", "name": "Гидралиск", "subtitle": "Hydralisk" },
-    { "key": "z-zergling", "faction": "zerg", "name": "Зерглинг", "subtitle": "Zergling" },
-    { "key": "z-roach", "faction": "zerg", "name": "Роуч", "subtitle": "Roach" },
-    { "key": "z-roachling", "faction": "zerg", "name": "Роучлинг", "subtitle": "Roachling", "pending": true },
-    { "key": "z-queen", "faction": "zerg", "name": "Королева", "subtitle": "Queen" },
-    { "key": "z-kerrigan", "faction": "zerg", "name": "Керриган", "subtitle": "Kerrigan", "hero": true }
-  ]
+  {
+   "key": "protoss",
+   "name": "Протоссы",
+   "color": "#f0c14b"
+  },
+  {
+   "key": "zerg",
+   "name": "Зерги",
+   "color": "#b06be0"
+  }
+ ],
+ "categoryLabels": {
+  "arrive": "Появление",
+  "hurt": "Ранен",
+  "select": "Выбор",
+  "move": "Приказ",
+  "attack": "Атака (голос)",
+  "sfx": "Бой (выстрел/удар)",
+  "confirm": "Действие",
+  "witty": "Шутки",
+  "other": "Смерть и разное"
+ },
+ "categoryOrder": [
+  "arrive",
+  "select",
+  "move",
+  "attack",
+  "sfx",
+  "confirm",
+  "hurt",
+  "witty",
+  "other"
+ ],
+ "units": [
+  {
+   "key": "t-marine",
+   "faction": "terran",
+   "name": "Морпех",
+   "subtitle": "Marine",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "t-marauder",
+   "faction": "terran",
+   "name": "Мародёр",
+   "subtitle": "Marauder",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "t-medic",
+   "faction": "terran",
+   "name": "Медик",
+   "subtitle": "Medic",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "t-goliath",
+   "faction": "terran",
+   "name": "Голиаф",
+   "subtitle": "Goliath",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "t-raynor",
+   "faction": "terran",
+   "name": "Джим Рейнор",
+   "subtitle": "Jim Raynor",
+   "hero": true,
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "p-zealot",
+   "faction": "protoss",
+   "name": "Зилот",
+   "subtitle": "Zealot",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "p-adept",
+   "faction": "protoss",
+   "name": "Адепт",
+   "subtitle": "Adept",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "p-sentry",
+   "faction": "protoss",
+   "name": "Страж",
+   "subtitle": "Sentry",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "p-stalker",
+   "faction": "protoss",
+   "name": "Сталкер",
+   "subtitle": "Stalker",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "p-artanis-lotv",
+   "faction": "protoss",
+   "name": "Артанис",
+   "subtitle": "Artanis · Legacy of the Void",
+   "hero": true,
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "p-artanis-wol",
+   "faction": "protoss",
+   "name": "Артанис (классика)",
+   "subtitle": "Artanis · Wings of Liberty",
+   "hero": true,
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-hydralisk",
+   "faction": "zerg",
+   "name": "Гидралиск",
+   "subtitle": "Hydralisk",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-zergling",
+   "faction": "zerg",
+   "name": "Зерглинг",
+   "subtitle": "Zergling",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-roach",
+   "faction": "zerg",
+   "name": "Роуч",
+   "subtitle": "Roach",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-roachling",
+   "faction": "zerg",
+   "name": "Роучлинг",
+   "subtitle": "Roachling",
+   "pending": true,
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-queen",
+   "faction": "zerg",
+   "name": "Королева",
+   "subtitle": "Queen",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-kerrigan",
+   "faction": "zerg",
+   "name": "Керриган",
+   "subtitle": "Kerrigan",
+   "hero": true,
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "t-ghost-male",
+   "faction": "terran",
+   "name": "Ghost",
+   "subtitle": "Ghost",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-banshee",
+   "faction": "terran",
+   "name": "Banshee",
+   "subtitle": "Banshee",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-terran-buildings",
+   "faction": "terran",
+   "name": "Structures",
+   "subtitle": "Structures",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-cyclone",
+   "faction": "terran",
+   "name": "Cyclone",
+   "subtitle": "Cyclone",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-battlecruiser",
+   "faction": "terran",
+   "name": "Battlecruiser",
+   "subtitle": "Battlecruiser",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-medivac",
+   "faction": "terran",
+   "name": "Medivac",
+   "subtitle": "Medivac",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-hellbat",
+   "faction": "terran",
+   "name": "Hellbat",
+   "subtitle": "Hellbat",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-hellion",
+   "faction": "terran",
+   "name": "Hellion",
+   "subtitle": "Hellion",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-liberator",
+   "faction": "terran",
+   "name": "Liberator",
+   "subtitle": "Liberator",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-ghost-female",
+   "faction": "terran",
+   "name": "Ghost",
+   "subtitle": "Ghost",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-mule",
+   "faction": "terran",
+   "name": "MULE",
+   "subtitle": "MULE",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-reaper",
+   "faction": "terran",
+   "name": "Reaper",
+   "subtitle": "Reaper",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-thor",
+   "faction": "terran",
+   "name": "Thor",
+   "subtitle": "Thor",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-raven",
+   "faction": "terran",
+   "name": "Raven",
+   "subtitle": "Raven",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-scv",
+   "faction": "terran",
+   "name": "SCV",
+   "subtitle": "SCV",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-assault-galleon",
+   "faction": "terran",
+   "name": "Assault Galleon",
+   "subtitle": "Assault Galleon",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-viking",
+   "faction": "terran",
+   "name": "Viking",
+   "subtitle": "Viking",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-widow-mine",
+   "faction": "terran",
+   "name": "Widow Mine",
+   "subtitle": "Widow Mine",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-siege-tank",
+   "faction": "terran",
+   "name": "Siege Tank",
+   "subtitle": "Siege Tank",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-diamondback",
+   "faction": "terran",
+   "name": "Diamondback",
+   "subtitle": "Diamondback",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-dominion-trooper",
+   "faction": "terran",
+   "name": "Dominion Trooper",
+   "subtitle": "Dominion Trooper",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-firebat",
+   "faction": "terran",
+   "name": "Firebat",
+   "subtitle": "Firebat",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-imperial-witness",
+   "faction": "terran",
+   "name": "Imperial witness",
+   "subtitle": "Imperial witness",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-hercules",
+   "faction": "terran",
+   "name": "Hercules",
+   "subtitle": "Hercules",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-science-vessel",
+   "faction": "terran",
+   "name": "Science Vessel",
+   "subtitle": "Science Vessel",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-herc",
+   "faction": "terran",
+   "name": "HERC",
+   "subtitle": "HERC",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-predator",
+   "faction": "terran",
+   "name": "Predator",
+   "subtitle": "Predator",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-scientist-wo-l",
+   "faction": "terran",
+   "name": "Scientist",
+   "subtitle": "Scientist",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-scientist-nco",
+   "faction": "terran",
+   "name": "Scientist",
+   "subtitle": "Scientist",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-tauren-marine",
+   "faction": "terran",
+   "name": "Tauren Marine",
+   "subtitle": "Tauren Marine",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-spectre",
+   "faction": "terran",
+   "name": "Spectre",
+   "subtitle": "Spectre",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-trooper",
+   "faction": "terran",
+   "name": "Trooper",
+   "subtitle": "Trooper",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-davis",
+   "faction": "terran",
+   "name": "Carolina Davis",
+   "subtitle": "Carolina Davis",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-warbot",
+   "faction": "terran",
+   "name": "Warbot",
+   "subtitle": "Warbot",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-wraith",
+   "faction": "terran",
+   "name": "Wraith",
+   "subtitle": "Wraith",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-vulture",
+   "faction": "terran",
+   "name": "Vulture",
+   "subtitle": "Vulture",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-stetmann",
+   "faction": "terran",
+   "name": "Egon Stetmann",
+   "subtitle": "Egon Stetmann",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-warhound",
+   "faction": "terran",
+   "name": "Warhound",
+   "subtitle": "Warhound",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-horner",
+   "faction": "terran",
+   "name": "Matt Horner",
+   "subtitle": "Matt Horner",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-tosh",
+   "faction": "terran",
+   "name": "Gabriel Tosh",
+   "subtitle": "Gabriel Tosh",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-nova-wo-l",
+   "faction": "terran",
+   "name": "Nova Terra",
+   "subtitle": "Nova Terra",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-swann",
+   "faction": "terran",
+   "name": "Rory Swann",
+   "subtitle": "Rory Swann",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-tychus",
+   "faction": "terran",
+   "name": "Tychus Findlay",
+   "subtitle": "Tychus Findlay",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-nova-nco",
+   "faction": "terran",
+   "name": "Nova Terra",
+   "subtitle": "Nova Terra",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-protoss-buildings",
+   "faction": "protoss",
+   "name": "Structures",
+   "subtitle": "Structures",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-odin",
+   "faction": "terran",
+   "name": "Tychus Findlay",
+   "subtitle": "Tychus Findlay",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-archon",
+   "faction": "protoss",
+   "name": "Archon",
+   "subtitle": "Archon",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-carrier",
+   "faction": "protoss",
+   "name": "Carrier",
+   "subtitle": "Carrier",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-colossus",
+   "faction": "protoss",
+   "name": "Colossus",
+   "subtitle": "Colossus",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-disruptor",
+   "faction": "protoss",
+   "name": "Disruptor",
+   "subtitle": "Disruptor",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-dark-templar",
+   "faction": "protoss",
+   "name": "Dark Templar",
+   "subtitle": "Dark Templar",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-high-templar-lot-v",
+   "faction": "protoss",
+   "name": "High Templar",
+   "subtitle": "High Templar",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-mothership",
+   "faction": "protoss",
+   "name": "Mothership",
+   "subtitle": "Mothership",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-high-templar",
+   "faction": "protoss",
+   "name": "High Templar",
+   "subtitle": "High Templar",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-oracle",
+   "faction": "protoss",
+   "name": "Oracle",
+   "subtitle": "Oracle",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-observer",
+   "faction": "protoss",
+   "name": "Observer",
+   "subtitle": "Observer",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-probe",
+   "faction": "protoss",
+   "name": "Probe",
+   "subtitle": "Probe",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-immortal",
+   "faction": "protoss",
+   "name": "Immortal",
+   "subtitle": "Immortal",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-phoenix",
+   "faction": "protoss",
+   "name": "Phoenix",
+   "subtitle": "Phoenix",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-tempest",
+   "faction": "protoss",
+   "name": "Tempest",
+   "subtitle": "Tempest",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-void-ray",
+   "faction": "protoss",
+   "name": "Void Ray",
+   "subtitle": "Void Ray",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-warp-prism",
+   "faction": "protoss",
+   "name": "Warp Prism",
+   "subtitle": "Warp Prism",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-annihilator",
+   "faction": "protoss",
+   "name": "Annihilator",
+   "subtitle": "Annihilator",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-arbiter",
+   "faction": "protoss",
+   "name": "Arbiter",
+   "subtitle": "Arbiter",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-ascendant",
+   "faction": "protoss",
+   "name": "Ascendant",
+   "subtitle": "Ascendant",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-blood-hunter",
+   "faction": "protoss",
+   "name": "Blood hunter",
+   "subtitle": "Blood hunter",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-avenger",
+   "faction": "protoss",
+   "name": "Avenger",
+   "subtitle": "Avenger",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-centurion",
+   "faction": "protoss",
+   "name": "Centurion",
+   "subtitle": "Centurion",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-corsair-wo-l",
+   "faction": "protoss",
+   "name": "Corsair (Wings of Liberty)",
+   "subtitle": "Corsair (Wings of Liberty)",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-dark-archon",
+   "faction": "protoss",
+   "name": "Dark archon",
+   "subtitle": "Dark archon",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-energizer",
+   "faction": "protoss",
+   "name": "Energizer",
+   "subtitle": "Energizer",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-destroyer",
+   "faction": "protoss",
+   "name": "Destroyer",
+   "subtitle": "Destroyer",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-corsair-lot-v",
+   "faction": "protoss",
+   "name": "Corsair (Legacy of the Void)",
+   "subtitle": "Corsair (Legacy of the Void)",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-havoc",
+   "faction": "protoss",
+   "name": "Havoc",
+   "subtitle": "Havoc",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-instigator",
+   "faction": "protoss",
+   "name": "Instigator",
+   "subtitle": "Instigator",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-dragoon",
+   "faction": "protoss",
+   "name": "Dragoon",
+   "subtitle": "Dragoon",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-purifier-colossus",
+   "faction": "protoss",
+   "name": "Purifier",
+   "subtitle": "Purifier",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-tempest-purifier",
+   "faction": "protoss",
+   "name": "Purifier",
+   "subtitle": "Purifier",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-mirage",
+   "faction": "protoss",
+   "name": "Mirage",
+   "subtitle": "Mirage",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-reaver",
+   "faction": "protoss",
+   "name": "Reaver",
+   "subtitle": "Reaver",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-sentinel",
+   "faction": "protoss",
+   "name": "Sentinel",
+   "subtitle": "Sentinel",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-scout",
+   "faction": "protoss",
+   "name": "Scout",
+   "subtitle": "Scout",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-supplicant",
+   "faction": "protoss",
+   "name": "Supplicant",
+   "subtitle": "Supplicant",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-mothership-taldarim",
+   "faction": "protoss",
+   "name": "Tal'darim Mothership",
+   "subtitle": "Tal'darim Mothership",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-wrathwalker",
+   "faction": "protoss",
+   "name": "Wrathwalker",
+   "subtitle": "Wrathwalker",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-alarak",
+   "faction": "protoss",
+   "name": "Alarak",
+   "subtitle": "Alarak",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-vanguard",
+   "faction": "protoss",
+   "name": "Vanguard",
+   "subtitle": "Vanguard",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-stone-zealot",
+   "faction": "protoss",
+   "name": "Stone zealot",
+   "subtitle": "Stone zealot",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-karass",
+   "faction": "protoss",
+   "name": "Karass",
+   "subtitle": "Karass",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-karax",
+   "faction": "protoss",
+   "name": "Karax",
+   "subtitle": "Karax",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-selendis",
+   "faction": "protoss",
+   "name": "Selendis",
+   "subtitle": "Selendis",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-mohandar",
+   "faction": "protoss",
+   "name": "Mohandar",
+   "subtitle": "Mohandar",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-talandar",
+   "faction": "protoss",
+   "name": "Talandar (Fenix)",
+   "subtitle": "Talandar (Fenix)",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-urun",
+   "faction": "protoss",
+   "name": "Urun",
+   "subtitle": "Urun",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-vorazun",
+   "faction": "protoss",
+   "name": "Vorazun",
+   "subtitle": "Vorazun",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-baneling",
+   "faction": "zerg",
+   "name": "Baneling",
+   "subtitle": "Baneling",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-zeratul",
+   "faction": "protoss",
+   "name": "Zeratul",
+   "subtitle": "Zeratul",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-broodling",
+   "faction": "zerg",
+   "name": "Broodling",
+   "subtitle": "Broodling",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-changeling",
+   "faction": "zerg",
+   "name": "Changeling",
+   "subtitle": "Changeling",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-changeling-marine",
+   "faction": "zerg",
+   "name": "Marine",
+   "subtitle": "Marine",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-brood-lord",
+   "faction": "zerg",
+   "name": "Brood Lord",
+   "subtitle": "Brood Lord",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-changeling-zealot",
+   "faction": "zerg",
+   "name": "Zealot",
+   "subtitle": "Zealot",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-corruptor",
+   "faction": "zerg",
+   "name": "Corruptor",
+   "subtitle": "Corruptor",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-drone",
+   "faction": "zerg",
+   "name": "Drone",
+   "subtitle": "Drone",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-egg",
+   "faction": "zerg",
+   "name": "Egg",
+   "subtitle": "Egg",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-infestor",
+   "faction": "zerg",
+   "name": "Infestor",
+   "subtitle": "Infestor",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-infested-terran",
+   "faction": "zerg",
+   "name": "Infested Terran",
+   "subtitle": "Infested Terran",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-neural-parasite",
+   "faction": "zerg",
+   "name": "Neural Parasite",
+   "subtitle": "Neural Parasite",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-mutalisk",
+   "faction": "zerg",
+   "name": "Mutalisk",
+   "subtitle": "Mutalisk",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-nydus-worm",
+   "faction": "zerg",
+   "name": "Nydus Worm",
+   "subtitle": "Nydus Worm",
+   "games": [
+    "sc2"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-larva",
+   "faction": "zerg",
+   "name": "Larva",
+   "subtitle": "Larva",
+   "games": [
+    "sc2",
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-duke-bc",
+   "faction": "terran",
+   "name": "Battlecruiser",
+   "subtitle": "Battlecruiser",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-duran-ghost",
+   "faction": "terran",
+   "name": "Samir Duran",
+   "subtitle": "Samir Duran",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-duke-tank",
+   "faction": "terran",
+   "name": "Siege tank",
+   "subtitle": "Siege tank",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-dropship",
+   "faction": "terran",
+   "name": "Dropship",
+   "subtitle": "Dropship",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-hyperion",
+   "faction": "terran",
+   "name": "Hyperion",
+   "subtitle": "Hyperion",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-raynor-vulture",
+   "faction": "terran",
+   "name": "Vulture",
+   "subtitle": "Vulture",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-adjutant",
+   "faction": "terran",
+   "name": "Adjutant",
+   "subtitle": "Adjutant",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-civilian",
+   "faction": "terran",
+   "name": "Civilian",
+   "subtitle": "Civilian",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-ghost",
+   "faction": "terran",
+   "name": "Ghost",
+   "subtitle": "Ghost",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "t-valkyrie",
+   "faction": "terran",
+   "name": "Valkyrie",
+   "subtitle": "Valkyrie",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-tassadar",
+   "faction": "protoss",
+   "name": "High templar",
+   "subtitle": "High templar",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-gantrithor",
+   "faction": "protoss",
+   "name": "Gantrithor",
+   "subtitle": "Gantrithor",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-fenix-dragoon",
+   "faction": "protoss",
+   "name": "Dragoon",
+   "subtitle": "Dragoon",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-fenix-zealot",
+   "faction": "protoss",
+   "name": "Zealot",
+   "subtitle": "Zealot",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-protoss-advisor",
+   "faction": "protoss",
+   "name": "Protoss Advisor",
+   "subtitle": "Protoss Advisor",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-corsair",
+   "faction": "protoss",
+   "name": "Corsair",
+   "subtitle": "Corsair",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "p-shuttle",
+   "faction": "protoss",
+   "name": "Shuttle",
+   "subtitle": "Shuttle",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-infested-duran",
+   "faction": "zerg",
+   "name": "Infested Duran",
+   "subtitle": "Infested Duran",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-infested-kerrigan",
+   "faction": "zerg",
+   "name": "Infested Kerrigan",
+   "subtitle": "Infested Kerrigan",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-overmind",
+   "faction": "zerg",
+   "name": "Overmind",
+   "subtitle": "Overmind",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-devourer",
+   "faction": "zerg",
+   "name": "Devourer",
+   "subtitle": "Devourer",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-defiler",
+   "faction": "zerg",
+   "name": "Defiler",
+   "subtitle": "Defiler",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-guardian",
+   "faction": "zerg",
+   "name": "Guardian",
+   "subtitle": "Guardian",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-lurker",
+   "faction": "zerg",
+   "name": "Lurker",
+   "subtitle": "Lurker",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-overlord",
+   "faction": "zerg",
+   "name": "Overlord",
+   "subtitle": "Overlord",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-ultralisk",
+   "faction": "zerg",
+   "name": "Ultralisk",
+   "subtitle": "Ultralisk",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  },
+  {
+   "key": "z-scourge",
+   "faction": "zerg",
+   "name": "Scourge",
+   "subtitle": "Scourge",
+   "games": [
+    "sc1"
+   ],
+   "tmg": false
+  }
+ ]
 }

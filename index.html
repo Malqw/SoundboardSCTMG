@@ -10,11 +10,23 @@
 <header class="topbar">
   <div class="brand">⚡ SCTMG Soundboard</div>
   <input id="search" class="search" type="search" placeholder="Поиск по реплике (англ.)…" autocomplete="off">
+  <div class="lang-switch" id="langSwitch"></div>
+  <button id="tmgToggle" class="tmg-toggle"></button>
 </header>
 
 <nav class="tabs" id="tabs"></nav>
 
 <main id="content" class="content"></main>
+
+<div id="miniPlayer" class="mini-player" hidden>
+  <button id="miniPlayToggle" class="mini-play-toggle">⏸</button>
+  <div class="mini-info">
+    <div id="miniTrackName" class="mini-track-name"></div>
+    <div class="mini-progress-track"><div id="miniProgress" class="mini-progress-fill"></div></div>
+  </div>
+  <button id="miniNext" class="mini-next">⏭</button>
+  <button id="miniClose" class="mini-close">✕</button>
+</div>
 
 <div id="toast" class="toast" hidden></div>
 

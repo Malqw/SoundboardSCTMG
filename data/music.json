@@ -1,0 +1,272 @@
+[
+ {
+  "key": "battlenet-theme",
+  "name": "Battle.net Theme",
+  "file": "assets/music/sc2/battlenet-theme.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "broken-wings",
+  "name": "Broken Wings",
+  "file": "assets/music/sc2/broken-wings.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "brood-war-aria",
+  "name": "Brood War Aria",
+  "file": "assets/music/sc2/brood-war-aria.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "cities-in-ruin",
+  "name": "Cities in Ruin",
+  "file": "assets/music/sc2/cities-in-ruin.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "directorate-menace",
+  "name": "Directorate Menace",
+  "file": "assets/music/sc2/directorate-menace.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "evolution-1",
+  "name": "Evolution I",
+  "file": "assets/music/sc2/evolution-1.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "evolution-2",
+  "name": "Evolution II",
+  "file": "assets/music/sc2/evolution-2.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "evolution-3",
+  "name": "Evolution III",
+  "file": "assets/music/sc2/evolution-3.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "furiousity",
+  "name": "Furiousity",
+  "file": "assets/music/sc2/furiousity.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "fury",
+  "name": "Fury",
+  "file": "assets/music/sc2/fury.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "haunted-mines-1",
+  "name": "Haunted Mines I",
+  "file": "assets/music/sc2/haunted-mines-1.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "haunted-mines-2",
+  "name": "Haunted Mines II",
+  "file": "assets/music/sc2/haunted-mines-2.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "space-ambient-hots",
+  "name": "Space Ambient (HotS)",
+  "file": "assets/music/sc2/space-ambient-hots.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "zerus-ambient-1",
+  "name": "Zerus Ambient I",
+  "file": "assets/music/sc2/zerus-ambient-1.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "zerus-ambient-2",
+  "name": "Zerus Ambient II",
+  "file": "assets/music/sc2/zerus-ambient-2.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "love-theme",
+  "name": "Love Theme",
+  "file": "assets/music/sc2/love-theme.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "onslaught",
+  "name": "Onslaught",
+  "file": "assets/music/sc2/onslaught.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "space-1",
+  "name": "Space I",
+  "file": "assets/music/sc2/space-1.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "space-2",
+  "name": "Space II",
+  "file": "assets/music/sc2/space-2.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "space-battle-2",
+  "name": "Space Battle II",
+  "file": "assets/music/sc2/space-battle-2.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "the-rescue",
+  "name": "The Rescue",
+  "file": "assets/music/sc2/the-rescue.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "swarm-titan",
+  "name": "Swarm: Titan",
+  "file": "assets/music/sc2/swarm-titan.mp3",
+  "source": "sc2"
+ },
+ {
+  "key": "sc1-pdefeat",
+  "name": "Protoss Defeat",
+  "file": "assets/music/sc1/pdefeat.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-prdyroom",
+  "name": "Protoss Ready Room",
+  "file": "assets/music/sc1/prdyroom.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-protoss1",
+  "name": "Protoss I",
+  "file": "assets/music/sc1/protoss1.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-protoss2",
+  "name": "Protoss II",
+  "file": "assets/music/sc1/protoss2.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-protoss3",
+  "name": "Protoss III",
+  "file": "assets/music/sc1/protoss3.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-protoss4",
+  "name": "Protoss IV",
+  "file": "assets/music/sc1/protoss4.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-pvict",
+  "name": "Protoss Victory",
+  "file": "assets/music/sc1/pvict.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-radiofreezerg",
+  "name": "Radio Free Zerg",
+  "file": "assets/music/sc1/radiofreezerg.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-tdefeat",
+  "name": "Terran Defeat",
+  "file": "assets/music/sc1/tdefeat.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-terran1",
+  "name": "Terran I",
+  "file": "assets/music/sc1/terran1.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-terran2",
+  "name": "Terran II",
+  "file": "assets/music/sc1/terran2.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-terran3",
+  "name": "Terran III",
+  "file": "assets/music/sc1/terran3.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-terran4",
+  "name": "Terran IV",
+  "file": "assets/music/sc1/terran4.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-title",
+  "name": "Title Theme",
+  "file": "assets/music/sc1/title.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-trdyroom",
+  "name": "Terran Ready Room",
+  "file": "assets/music/sc1/trdyroom.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-tvict",
+  "name": "Terran Victory",
+  "file": "assets/music/sc1/tvict.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zdefeat",
+  "name": "Zerg Defeat",
+  "file": "assets/music/sc1/zdefeat.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zerg1",
+  "name": "Zerg I",
+  "file": "assets/music/sc1/zerg1.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zerg2",
+  "name": "Zerg II",
+  "file": "assets/music/sc1/zerg2.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zerg3",
+  "name": "Zerg III",
+  "file": "assets/music/sc1/zerg3.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zerg4",
+  "name": "Zerg IV",
+  "file": "assets/music/sc1/zerg4.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zrdyroom",
+  "name": "Zerg Ready Room",
+  "file": "assets/music/sc1/zrdyroom.mp3",
+  "source": "sc1"
+ },
+ {
+  "key": "sc1-zvict",
+  "name": "Zerg Victory",
+  "file": "assets/music/sc1/zvict.mp3",
+  "source": "sc1"
+ }
+]
