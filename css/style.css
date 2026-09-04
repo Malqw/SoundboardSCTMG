@@ -61,14 +61,12 @@ html, body {
   top: 68px;
   z-index: 19;
   display: flex;
+  flex-wrap: wrap;
   gap: 6px;
   padding: 8px 12px;
-  overflow-x: auto;
   background: var(--bg);
   border-bottom: 1px solid var(--border);
-  scrollbar-width: none;
 }
-.tabs::-webkit-scrollbar { display: none; }
 
 .tab-btn {
   flex: none;
@@ -165,12 +163,10 @@ html, body {
 
 .cat-row {
   display: flex;
+  flex-wrap: wrap;
   gap: 6px;
   margin-bottom: 10px;
-  overflow-x: auto;
-  scrollbar-width: none;
 }
-.cat-row::-webkit-scrollbar { display: none; }
 .cat-btn {
   flex: none;
   padding: 6px 12px;
