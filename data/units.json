@@ -410,13 +410,13 @@
   {
    "key": "t-siege-tank",
    "faction": "terran",
-   "name": "Siege Tank",
+   "name": "Осадный танк",
    "subtitle": "Siege Tank",
    "games": [
     "sc2",
     "sc1"
    ],
-   "tmg": false
+   "tmg": true
   },
   {
    "key": "t-diamondback",
@@ -812,12 +812,12 @@
   {
    "key": "p-immortal",
    "faction": "protoss",
-   "name": "Immortal",
+   "name": "Иммортал",
    "subtitle": "Immortal",
    "games": [
     "sc2"
    ],
-   "tmg": false
+   "tmg": true
   },
   {
    "key": "p-phoenix",
@@ -1630,6 +1630,16 @@
     "sc1"
    ],
    "tmg": false
+  },
+  {
+   "key": "z-ravager",
+   "faction": "zerg",
+   "name": "Рэвэджер",
+   "subtitle": "Ravager",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
   }
  ]
 }

@@ -6316,6 +6316,92 @@
      "file": "assets/audio/en/terran/t-siege-tank/SiegeTank_Death03.mp3",
      "text": "(Screams)"
     }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_attacklaunch0.mp3",
+     "text": "Выстрел (танк) 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_attacklaunch1.mp3",
+     "text": "Выстрел (танк) 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_attacklaunch2.mp3",
+     "text": "Выстрел (танк) 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_attacklaunch3.mp3",
+     "text": "Выстрел (танк) 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch0.mp3",
+     "text": "Выстрел (осадный режим) 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch1.mp3",
+     "text": "Выстрел (осадный режим) 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch2.mp3",
+     "text": "Выстрел (осадный режим) 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch3.mp3",
+     "text": "Выстрел (осадный режим) 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch4.mp3",
+     "text": "Выстрел (осадный режим) 5"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch5.mp3",
+     "text": "Выстрел (осадный режим) 6"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch6.mp3",
+     "text": "Выстрел (осадный режим) 7"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch7.mp3",
+     "text": "Выстрел (осадный режим) 8"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch8.mp3",
+     "text": "Выстрел (осадный режим) 9"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattacklaunch9.mp3",
+     "text": "Выстрел (осадный режим) 10"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattackimpact0.mp3",
+     "text": "Попадание (осадный режим) 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattackimpact1.mp3",
+     "text": "Попадание (осадный режим) 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattackimpact2.mp3",
+     "text": "Попадание (осадный режим) 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattackimpact3.mp3",
+     "text": "Попадание (осадный режим) 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_siegeattackimpact4.mp3",
+     "text": "Попадание (осадный режим) 5"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_morphtosiege.mp3",
+     "text": "Переход в осадный режим"
+    },
+    {
+     "file": "assets/audio/en/terran/t-siege-tank/siegetank_morphtotank.mp3",
+     "text": "Переход в режим танка"
+    }
    ]
   }
  },
@@ -12069,6 +12155,32 @@
     {
      "file": "assets/audio/en/protoss/p-immortal/Immortal_Pissed05.mp3",
      "text": "Back in my day, I had to teleport to and from school in the snow, uphill, both dimensions!"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/protoss/p-immortal/immortal_attacklaunch0.mp3",
+     "text": "Выстрел 1"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-immortal/immortal_attacklaunch1.mp3",
+     "text": "Выстрел 2"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-immortal/immortal_attacklaunch2.mp3",
+     "text": "Выстрел 3"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-immortal/immortal_hardenedshieldimpact0.mp3",
+     "text": "Щит поглотил удар 1"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-immortal/immortal_hardenedshieldimpact1.mp3",
+     "text": "Щит поглотил удар 2"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-immortal/immortal_hardenedshieldimpact2.mp3",
+     "text": "Щит поглотил удар 3"
     }
    ]
   }
@@ -18715,6 +18827,274 @@
     {
      "file": "assets/audio/en/zerg/z-larva/Larva_Death1.mp3",
      "text": "Death 2."
+    }
+   ]
+  }
+ },
+ "z-ravager": {
+  "name": "Ravager",
+  "faction": "zerg",
+  "categories": {
+   "arrive": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ready01.mp3",
+     "text": "Реплика 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ready02.mp3",
+     "text": "Реплика 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ready03.mp3",
+     "text": "Реплика 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ready04.mp3",
+     "text": "Реплика 4"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ready05.mp3",
+     "text": "Реплика 5"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ready06.mp3",
+     "text": "Реплика 6"
+    }
+   ],
+   "select": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what01.mp3",
+     "text": "Реплика 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what02.mp3",
+     "text": "Реплика 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what03.mp3",
+     "text": "Реплика 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what04.mp3",
+     "text": "Реплика 4"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what05.mp3",
+     "text": "Реплика 5"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what06.mp3",
+     "text": "Реплика 6"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_what07.mp3",
+     "text": "Реплика 7"
+    }
+   ],
+   "move": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok01.mp3",
+     "text": "Реплика 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok02.mp3",
+     "text": "Реплика 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok03.mp3",
+     "text": "Реплика 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok04.mp3",
+     "text": "Реплика 4"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok05.mp3",
+     "text": "Реплика 5"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok06.mp3",
+     "text": "Реплика 6"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok07.mp3",
+     "text": "Реплика 7"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_ok08.mp3",
+     "text": "Реплика 8"
+    }
+   ],
+   "attack": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack01.mp3",
+     "text": "Реплика 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack02.mp3",
+     "text": "Реплика 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack03.mp3",
+     "text": "Реплика 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack04.mp3",
+     "text": "Реплика 4"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack05.mp3",
+     "text": "Реплика 5"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack06.mp3",
+     "text": "Реплика 6"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack07.mp3",
+     "text": "Реплика 7"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack08.mp3",
+     "text": "Реплика 8"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_attack09.mp3",
+     "text": "Реплика 9"
+    }
+   ],
+   "witty": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_pissed01.mp3",
+     "text": "Реплика 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_pissed02.mp3",
+     "text": "Реплика 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_pissed03.mp3",
+     "text": "Реплика 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_pissed04.mp3",
+     "text": "Реплика 4"
+    }
+   ],
+   "other": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death01.mp3",
+     "text": "Реплика 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death02.mp3",
+     "text": "Реплика 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death03.mp3",
+     "text": "Реплика 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death04.mp3",
+     "text": "Реплика 4"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death05.mp3",
+     "text": "Реплика 5"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death06.mp3",
+     "text": "Реплика 6"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_vox_death07.mp3",
+     "text": "Реплика 7"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch01.mp3",
+     "text": "Выстрел 1"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch02.mp3",
+     "text": "Выстрел 2"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch03.mp3",
+     "text": "Выстрел 3"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch04.mp3",
+     "text": "Выстрел 4"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch05.mp3",
+     "text": "Выстрел 5"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch06.mp3",
+     "text": "Выстрел 6"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch07.mp3",
+     "text": "Выстрел 7"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch08.mp3",
+     "text": "Выстрел 8"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch09.mp3",
+     "text": "Выстрел 9"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_attacklaunch10.mp3",
+     "text": "Выстрел 10"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_corrosivebile_explosion01.mp3",
+     "text": "Попадание 11"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_01.mp3",
+     "text": "Попадание 12"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_02.mp3",
+     "text": "Попадание 13"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_03.mp3",
+     "text": "Попадание 14"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_04.mp3",
+     "text": "Попадание 15"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_05.mp3",
+     "text": "Попадание 16"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_06.mp3",
+     "text": "Попадание 17"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_07.mp3",
+     "text": "Попадание 18"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_08.mp3",
+     "text": "Попадание 19"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_09.mp3",
+     "text": "Попадание 20"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-ravager/ravager_impact_10.mp3",
+     "text": "Попадание 21"
     }
    ]
   }
