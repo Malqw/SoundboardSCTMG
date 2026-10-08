@@ -1207,13 +1207,14 @@
   {
    "key": "p-zeratul",
    "faction": "protoss",
-   "name": "Zeratul",
+   "name": "Зератул",
    "subtitle": "Zeratul",
    "games": [
     "sc2",
     "sc1"
    ],
-   "tmg": false
+   "tmg": true,
+   "hero": true
   },
   {
    "key": "z-broodling",

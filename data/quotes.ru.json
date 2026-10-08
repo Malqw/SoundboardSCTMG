@@ -789,6 +789,23 @@
      "file": "assets/audio/ru/terran/t-medic/Medic_Flare00.mp3",
      "text": "Heads up!"
     }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/terran/t-medic/medivac_healstart.mp3",
+     "text": "Луч лечения: старт",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-medic/medivac_healloop.mp3",
+     "text": "Луч лечения",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-medic/medivac_healend.mp3",
+     "text": "Луч лечения: конец",
+     "shared": true
+    }
    ]
   }
  },
@@ -1139,6 +1156,63 @@
     {
      "file": "assets/audio/ru/terran/t-raynor/Raynor_Yes04.mp3",
      "text": "Take it to the limit."
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/terran/t-raynor/raynor_penetratorroundlaunch0.mp3",
+     "text": "Бронебойный выстрел",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-raynor/raynor_tossgrenadelaunch0.mp3",
+     "text": "Граната",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch0.mp3",
+     "text": "Выстрел (винтовка) 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch1.mp3",
+     "text": "Выстрел (винтовка) 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch2.mp3",
+     "text": "Выстрел (винтовка) 3",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch3.mp3",
+     "text": "Выстрел (винтовка) 4",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch4.mp3",
+     "text": "Выстрел (винтовка) 5",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch5.mp3",
+     "text": "Выстрел (винтовка) 6",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch6.mp3",
+     "text": "Выстрел (винтовка) 7",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch7.mp3",
+     "text": "Выстрел (винтовка) 8",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/terran/t-marine/marine_attacklaunch8.mp3",
+     "text": "Выстрел (винтовка) 9",
+     "shared": true
     }
    ]
   }
@@ -1707,6 +1781,48 @@
     {
      "file": "assets/audio/en/protoss/p-sentry/Sentry_Death02.mp3",
      "text": "Death 3.",
+     "shared": true
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_weaponstart.mp3",
+     "text": "Disruption Beam: старт",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_weaponloop.mp3",
+     "text": "Disruption Beam",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_weaponend.mp3",
+     "text": "Disruption Beam: конец",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_forcefieldlaunch.mp3",
+     "text": "Силовое поле",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_guardianshieldlaunch0.mp3",
+     "text": "Щит стража",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_hallucinationlaunchsmall.mp3",
+     "text": "Галлюцинация 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_hallucinationlaunchmedium.mp3",
+     "text": "Галлюцинация 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-sentry/sentry_hallucinationlaunchlarge.mp3",
+     "text": "Галлюцинация 3",
      "shared": true
     }
    ]
@@ -3274,6 +3390,63 @@
     {
      "file": "assets/audio/ru/zerg/z-kerrigan/kerrigan_death00.mp3",
      "text": "I'm full of surprises..."
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_energystrike_1.mp3",
+     "text": "Пси-удар 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_energystrike_2.mp3",
+     "text": "Пси-удар 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_electricstrike_1.mp3",
+     "text": "Электрический удар",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_kineticblast_impact00.mp3",
+     "text": "Кинетический взрыв 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_kineticblast_impact01.mp3",
+     "text": "Кинетический взрыв 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_beamlaunch_01.mp3",
+     "text": "Луч 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_beamlaunch_02.mp3",
+     "text": "Луч 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_beamlaunch_03.mp3",
+     "text": "Луч 3",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_beammissile_01.mp3",
+     "text": "Луч 4",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_beammissile_02.mp3",
+     "text": "Луч 5",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/zerg/z-kerrigan/kerrigan_beammissile_03.mp3",
+     "text": "Луч 6",
+     "shared": true
     }
    ]
   }
@@ -18152,6 +18325,133 @@
     {
      "file": "assets/audio/ru/protoss/p-zeratul/TZeratul04Zeratul00022.mp3",
      "text": "If only... we had acted sooner. (when killed in \"In Utter Darkness\")"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_cleave_01.mp3",
+     "text": "Удар клинком 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_cleave_02.mp3",
+     "text": "Удар клинком 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_cleave_03.mp3",
+     "text": "Удар клинком 3",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_cleave_04.mp3",
+     "text": "Удар клинком 4",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_cleave_06.mp3",
+     "text": "Удар клинком 5",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_01a.mp3",
+     "text": "Теневой удар 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_02a.mp3",
+     "text": "Теневой удар 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_03a.mp3",
+     "text": "Теневой удар 3",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_04a.mp3",
+     "text": "Теневой удар 4",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_05a.mp3",
+     "text": "Теневой удар 5",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_06a.mp3",
+     "text": "Теневой удар 6",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_07a.mp3",
+     "text": "Теневой удар 7",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_shadowstrike_08a.mp3",
+     "text": "Теневой удар 8",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_psi_blast_01.mp3",
+     "text": "Пси-взрыв 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_psi_blast_02.mp3",
+     "text": "Пси-взрыв 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_psi_blast_03.mp3",
+     "text": "Пси-взрыв 3",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_psi_blast_04.mp3",
+     "text": "Пси-взрыв 4",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_aa_cast_launch_01.mp3",
+     "text": "Выстрел по воздуху 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_aa_cast_launch_02.mp3",
+     "text": "Выстрел по воздуху 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_aa_cast_launch_03.mp3",
+     "text": "Выстрел по воздуху 3",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_spell_hit_01.mp3",
+     "text": "Попадание 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_spell_hit_02.mp3",
+     "text": "Попадание 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/sm_zeratul_blade_power_up01.mp3",
+     "text": "Клинок активируется 1",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/sm_zeratul_blade_power_up02.mp3",
+     "text": "Клинок активируется 2",
+     "shared": true
+    },
+    {
+     "file": "assets/audio/en/protoss/p-zeratul/zeratul_ac_ui_blade_on_big.mp3",
+     "text": "Клинок активируется 3",
+     "shared": true
     }
    ]
   }

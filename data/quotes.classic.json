@@ -442,6 +442,36 @@
      "file": "assets/audio/classic/terran/t-medic/TerranMedicRestoration01SC1.mp3",
      "text": "Restoration 2."
     }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedheal.mp3",
+     "text": "Луч лечения 1"
+    },
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedheal2.mp3",
+     "text": "Луч лечения 2"
+    },
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedcure.mp3",
+     "text": "Лечение (снятие эффектов) 1"
+    },
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedcure2.mp3",
+     "text": "Лечение (снятие эффектов) 2"
+    },
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedrest.mp3",
+     "text": "Восстановление 1"
+    },
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedrest1.mp3",
+     "text": "Восстановление 2"
+    },
+    {
+     "file": "assets/audio/classic/terran/t-medic/tmedflsh.mp3",
+     "text": "Вспышка"
+    }
    ]
   }
  },
@@ -601,6 +631,12 @@
     {
      "file": "assets/audio/classic/terran/t-raynor/TerranRaynorMarineDeath01SC1.mp3",
      "text": "Death 2."
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/classic/terran/t-marine/tmafir00.mp3",
+     "text": "Выстрел"
     }
    ]
   }
@@ -2013,6 +2049,12 @@
     {
      "file": "assets/audio/classic/zerg/z-kerrigan/TerranKerriganDeath01SC1.mp3",
      "text": "Death 2."
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/classic/terran/t-ghost/tghfir00.mp3",
+     "text": "Выстрел"
     }
    ]
   }
@@ -4077,6 +4119,12 @@
     {
      "file": "assets/audio/classic/protoss/p-zeratul/ProtossZeratulDeath00SC1.mp3",
      "text": "Death."
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/classic/protoss/p-zealot/psiblade.mp3",
+     "text": "Удар клинком"
     }
    ]
   }
