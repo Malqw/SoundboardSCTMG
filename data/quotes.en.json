@@ -5574,6 +5574,68 @@
      "file": "assets/audio/en/terran/t-raven/Raven_SpiderMine00.mp3",
      "text": "What a blast this will be."
     }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_autoturretattack0.mp3",
+     "text": "Авто-турель 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_autoturretattack1.mp3",
+     "text": "Авто-турель 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_autoturretattack2.mp3",
+     "text": "Авто-турель 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_autoturretattack3.mp3",
+     "text": "Авто-турель 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_hunterseekerlaunch0.mp3",
+     "text": "Ракета-охотник: пуск 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_hunterseekerlaunch1.mp3",
+     "text": "Ракета-охотник: пуск 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_seekermissile_explosion_01.mp3",
+     "text": "Ракета-охотник: взрыв 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_seekermissile_explosion_02.mp3",
+     "text": "Ракета-охотник: взрыв 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_seekermissile_explosion_03.mp3",
+     "text": "Ракета-охотник: взрыв 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_seekermissile_explosion_04.mp3",
+     "text": "Ракета-охотник: взрыв 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_seekermissile_explosion_05.mp3",
+     "text": "Ракета-охотник: взрыв 5"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_seekermissile_explosion_06.mp3",
+     "text": "Ракета-охотник: взрыв 6"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_pointdefensedroneattacklaunch0.mp3",
+     "text": "Дрон-защитник 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_pointdefensedroneattacklaunch1.mp3",
+     "text": "Дрон-защитник 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-raven/raven_pointdefensedroneattacklaunch2.mp3",
+     "text": "Дрон-защитник 3"
+    }
    ]
   }
  },
@@ -9766,6 +9828,72 @@
      "file": "assets/audio/en/terran/t-nova-wo-l/Nova_Death06.mp3",
      "text": "(Screams)"
     }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attacklaunch_01.mp3",
+     "text": "Плазменная винтовка 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attacklaunch_02.mp3",
+     "text": "Плазменная винтовка 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attacklaunch_03.mp3",
+     "text": "Плазменная винтовка 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attacklaunch_04.mp3",
+     "text": "Плазменная винтовка 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attackimpact_01.mp3",
+     "text": "Попадание 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attackimpact_02.mp3",
+     "text": "Попадание 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attackimpact_03.mp3",
+     "text": "Попадание 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_plasmarifle_attackimpact_04.mp3",
+     "text": "Попадание 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperrifleattacklaunch_01.mp3",
+     "text": "Снайперская винтовка 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperrifleattacklaunch_02.mp3",
+     "text": "Снайперская винтовка 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperrifleattacklaunch_03.mp3",
+     "text": "Снайперская винтовка 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperrifleattacklaunch_04.mp3",
+     "text": "Снайперская винтовка 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperriflebulletimpact01.mp3",
+     "text": "Попадание (снайпер) 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperriflebulletimpact02.mp3",
+     "text": "Попадание (снайпер) 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperriflebulletimpact03.mp3",
+     "text": "Попадание (снайпер) 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-wo-l/nova_sniperriflebulletimpact04.mp3",
+     "text": "Попадание (снайпер) 4"
+    }
    ]
   }
  },
@@ -10453,6 +10581,72 @@
     {
      "file": "assets/audio/en/terran/t-nova-nco/HeroNovaMP1_Respawn01.mp3",
      "text": "Whew, that's one hell of a healing device."
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attacklaunch_01.mp3",
+     "text": "Плазменная винтовка 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attacklaunch_02.mp3",
+     "text": "Плазменная винтовка 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attacklaunch_03.mp3",
+     "text": "Плазменная винтовка 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attacklaunch_04.mp3",
+     "text": "Плазменная винтовка 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attackimpact_01.mp3",
+     "text": "Попадание 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attackimpact_02.mp3",
+     "text": "Попадание 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attackimpact_03.mp3",
+     "text": "Попадание 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_plasmarifle_attackimpact_04.mp3",
+     "text": "Попадание 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperrifleattacklaunch_01.mp3",
+     "text": "Снайперская винтовка 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperrifleattacklaunch_02.mp3",
+     "text": "Снайперская винтовка 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperrifleattacklaunch_03.mp3",
+     "text": "Снайперская винтовка 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperrifleattacklaunch_04.mp3",
+     "text": "Снайперская винтовка 4"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperriflebulletimpact01.mp3",
+     "text": "Попадание (снайпер) 1"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperriflebulletimpact02.mp3",
+     "text": "Попадание (снайпер) 2"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperriflebulletimpact03.mp3",
+     "text": "Попадание (снайпер) 3"
+    },
+    {
+     "file": "assets/audio/en/terran/t-nova-nco/nova_sniperriflebulletimpact04.mp3",
+     "text": "Попадание (снайпер) 4"
     }
    ]
   }
@@ -11496,6 +11690,56 @@
      "file": "assets/audio/en/protoss/p-high-templar-lot-v/HighTemplar_Death4.mp3",
      "text": "(Screams)"
     }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_psionicstormlaunch0.mp3",
+     "text": "Пси-шторм: пуск"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_psionicstormimpact0.mp3",
+     "text": "Пси-шторм: удар 1"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_psionicstormimpact1.mp3",
+     "text": "Пси-шторм: удар 2"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_psionicstormimpact2.mp3",
+     "text": "Пси-шторм: удар 3"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_psionicstormimpact3.mp3",
+     "text": "Пси-шторм: удар 4"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_psionicstormimpact4.mp3",
+     "text": "Пси-шторм: удар 5"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_archonwarp0.mp3",
+     "text": "Слияние в архонта 1"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_archonwarp1.mp3",
+     "text": "Слияние в архонта 2"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_archonwarp2.mp3",
+     "text": "Слияние в архонта 3"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_archonwarp3.mp3",
+     "text": "Слияние в архонта 4"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_archonwarp4.mp3",
+     "text": "Слияние в архонта 5"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar-lot-v/hightemplar_archonwarp5.mp3",
+     "text": "Слияние в архонта 6"
+    }
    ]
   }
  },
@@ -11845,6 +12089,56 @@
     {
      "file": "assets/audio/en/protoss/p-high-templar/HighTemplar_Halucination00.mp3",
      "text": "Your eyes cannot be trusted!"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_psionicstormlaunch0.mp3",
+     "text": "Пси-шторм: пуск"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_psionicstormimpact0.mp3",
+     "text": "Пси-шторм: удар 1"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_psionicstormimpact1.mp3",
+     "text": "Пси-шторм: удар 2"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_psionicstormimpact2.mp3",
+     "text": "Пси-шторм: удар 3"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_psionicstormimpact3.mp3",
+     "text": "Пси-шторм: удар 4"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_psionicstormimpact4.mp3",
+     "text": "Пси-шторм: удар 5"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_archonwarp0.mp3",
+     "text": "Слияние в архонта 1"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_archonwarp1.mp3",
+     "text": "Слияние в архонта 2"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_archonwarp2.mp3",
+     "text": "Слияние в архонта 3"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_archonwarp3.mp3",
+     "text": "Слияние в архонта 4"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_archonwarp4.mp3",
+     "text": "Слияние в архонта 5"
+    },
+    {
+     "file": "assets/audio/en/protoss/p-high-templar/hightemplar_archonwarp5.mp3",
+     "text": "Слияние в архонта 6"
     }
    ]
   }
@@ -19337,6 +19631,78 @@
     {
      "file": "assets/audio/en/zerg/z-ravager/ravager_impact_10.mp3",
      "text": "Попадание 21"
+    }
+   ]
+  }
+ },
+ "z-zagara": {
+  "name": "Zagara",
+  "faction": "zerg",
+  "categories": {
+   "attack": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_attack00.mp3",
+     "text": "You can not escape the Swarm!"
+    }
+   ],
+   "other": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_death00.mp3",
+     "text": "The Swarm will never die!"
+    }
+   ],
+   "hurt": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_help00.mp3",
+     "text": "The Brood is under attack."
+    }
+   ],
+   "witty": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed00.mp3",
+     "text": "I am not interested in the possibilities of defeat, they do not exist!"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed01.mp3",
+     "text": "Shouldn't You be spawning more overlords?"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed02.mp3",
+     "text": "Feeble creature."
+    },
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed03.mp3",
+     "text": "One day I shall rule the Swarm!"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed04.mp3",
+     "text": "And on that day, You die first!"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed05.mp3",
+     "text": "I feel top-heavy!"
+    },
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_pissed06.mp3",
+     "text": "I'm a killer queen!"
+    }
+   ],
+   "arrive": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_ready00.mp3",
+     "text": "The Swarm prevails."
+    }
+   ],
+   "select": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_what00.mp3",
+     "text": "What are your commands?"
+    }
+   ],
+   "move": [
+    {
+     "file": "assets/audio/en/zerg/z-zagara/zagarahero_yes00.mp3",
+     "text": "We move."
     }
    ]
   }

@@ -359,12 +359,12 @@
   {
    "key": "t-raven",
    "faction": "terran",
-   "name": "Raven",
+   "name": "Ворон",
    "subtitle": "Raven",
    "games": [
     "sc2"
    ],
-   "tmg": false
+   "tmg": true
   },
   {
    "key": "t-scv",
@@ -635,12 +635,13 @@
   {
    "key": "t-nova-wo-l",
    "faction": "terran",
-   "name": "Nova Terra",
-   "subtitle": "Nova Terra",
+   "name": "Нова",
+   "subtitle": "Nova · Wings of Liberty",
    "games": [
     "sc2"
    ],
-   "tmg": false
+   "tmg": true,
+   "hero": true
   },
   {
    "key": "t-swann",
@@ -665,12 +666,13 @@
   {
    "key": "t-nova-nco",
    "faction": "terran",
-   "name": "Nova Terra",
-   "subtitle": "Nova Terra",
+   "name": "Нова",
+   "subtitle": "Nova · Covert Ops",
    "games": [
     "sc2"
    ],
-   "tmg": false
+   "tmg": true,
+   "hero": true
   },
   {
    "key": "p-protoss-buildings",
@@ -749,12 +751,12 @@
   {
    "key": "p-high-templar-lot-v",
    "faction": "protoss",
-   "name": "High Templar",
-   "subtitle": "High Templar",
+   "name": "Верховный тамплиер",
+   "subtitle": "High Templar · Legacy of the Void",
    "games": [
     "sc2"
    ],
-   "tmg": false
+   "tmg": true
   },
   {
    "key": "p-mothership",
@@ -769,13 +771,13 @@
   {
    "key": "p-high-templar",
    "faction": "protoss",
-   "name": "High Templar",
-   "subtitle": "High Templar",
+   "name": "Верховный тамплиер",
+   "subtitle": "High Templar · Wings of Liberty",
    "games": [
     "sc2",
     "sc1"
    ],
-   "tmg": false
+   "tmg": true
   },
   {
    "key": "p-oracle",
@@ -1465,12 +1467,13 @@
   {
    "key": "p-tassadar",
    "faction": "protoss",
-   "name": "High templar",
-   "subtitle": "High templar",
+   "name": "Тассадар",
+   "subtitle": "Tassadar",
    "games": [
     "sc1"
    ],
-   "tmg": false
+   "tmg": true,
+   "hero": true
   },
   {
    "key": "p-gantrithor",
@@ -1575,12 +1578,12 @@
   {
    "key": "z-defiler",
    "faction": "zerg",
-   "name": "Defiler",
+   "name": "Дефайлер",
    "subtitle": "Defiler",
    "games": [
     "sc1"
    ],
-   "tmg": false
+   "tmg": true
   },
   {
    "key": "z-guardian",
@@ -1637,6 +1640,17 @@
    "faction": "zerg",
    "name": "Рэвэджер",
    "subtitle": "Ravager",
+   "games": [
+    "sc2"
+   ],
+   "tmg": true
+  },
+  {
+   "key": "z-zagara",
+   "faction": "zerg",
+   "name": "Загара",
+   "subtitle": "Zagara",
+   "hero": true,
    "games": [
     "sc2"
    ],
